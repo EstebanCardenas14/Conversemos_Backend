@@ -3,7 +3,7 @@ import string
 import nltk
 
 nltk.download('wordnet')
-with open('texto_depresion_kaplan.txt', 'r', encoding='utf-8') as input_file:
+with open('corpus_depresion_kaplan.txt', 'r', encoding='utf-8') as input_file:
     texto = input_file.read()
     texto = texto.lower()
     ttranslator = str.maketrans('', '', string.punctuation)
@@ -13,7 +13,7 @@ with open('texto_depresion_kaplan.txt', 'r', encoding='utf-8') as input_file:
     
     lematizador = nltk.stem.WordNetLemmatizer()
     texto = " ".join([lematizador.lemmatize(palabra) for palabra in texto.split()])
-    with open('texto_depresion_kaplan_preprocesado.txt', 'w', encoding='utf-8') as output_file:
+    with open('texto_depresion_kaplan_preprocesado_corpus.txt', 'w', encoding='utf-8') as output_file:
         output_file.write(texto)
 
     
