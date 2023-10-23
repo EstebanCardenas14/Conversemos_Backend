@@ -28,7 +28,8 @@ class UserService:
 
     def update_one(self, query, data):
         collection = self.database['users'] 
-        collection.update_one(query, data)
+        update_data = {"$set": data} 
+        collection.update_one(query, update_data)
 
     def delete_one(self, query):
         collection = self.database['users']
