@@ -121,6 +121,7 @@ celerybeat.pid
 
 # Environments
 .env
+conversemos-firebase-adminsdk.json
 .venv
 env/
 venv/
