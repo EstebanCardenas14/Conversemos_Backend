@@ -1,0 +1,2463 @@
+7 
+Depressive Disorders
+THE CLINICAL PRESENTATION
+A depressed mood and a loss of interest or pleasure are the key symptoms of
+depression. Patients may say that they feel blue, hopeless, in the dumps, or
+worthless. For a patient, the depressed mood often has a distinct quality that
+differentiates it from the normal emotion of sadness or grief. Patients often
+describe the symptom of depression as one of agonizing emotional pain.
+Alternately they perceive it as a physical illness in which they feel exhausted
+and unmotivated. Others report feeling little, being unable to cry, and finding
+it difficult to experience any pleasure.
+The classic presentation of a depressed patient is a person with a stooped
+posture, decreased movement, and a downward averted gaze. In practice,
+there is a considerable range of behaviors ranging from persons with no
+observable symptoms to the catatonically depressed patient. Among
+observable signs of depression, generalized psychomotor retardation is the
+most often described, in which patients show little spontaneous movement.
+At times it may be so severe as to be challenging to differentiate from
+catatonia.
+Ms. A, a 34-year-old literature professor, presented to a mood clinic with
+the following complaint: “I am in a daze, confused, disoriented, staring.
+My thoughts do not flow, my mind is arrested.… I seem to lack any sense
+of direction, purpose.… I have such an inertia, I cannot assert myself. I
+cannot fight; I have no will.”
+Psychomotor agitation may occur, including such behaviors as hand
+wringing and hair pulling. Many depressed patients have a decreased rate and
+volume of speech; they respond to questions with single words and exhibit
+delayed responses to questions.
+When present, observable symptoms are helpful in the diagnosis; however,
+the lack of such symptoms does not imply that a patient has no disorder. It is
+not abnormal, for example, to encounter patients who can maintain a measure
+of social appropriateness, even smiling and laughing when with others,
+despite feeling internally miserable.
+The most typical somatic symptoms of depression are called the
+neurovegetative symptoms of depression and typically include a variety of
+physical symptoms. Table 7-1 lists typical neurovegetative symptoms.
+Almost all depressed patients (97 percent) complain about reduced energy;
+they have difficulty finishing tasks, are impaired at school and work, and
+have less motivation to undertake new projects. About 80 percent of patients
+complain of trouble sleeping, especially early morning awakening (i.e.,
+terminal insomnia) and multiple awakenings at night, during which they
+ruminate about their problems. Many patients have decreased appetite and
+weight loss, but others experience increased appetite and weight gain and
+sleep longer than usual. These are sometimes called reversed neurovegetative
+symptoms or atypical features.
+Depression is, by definition, a mood disorder, and disturbances of mood
+are at the core. Patients feel “bad” and may use words such as “sad,”
+“depressed,” “blue,” “down,” or similar words to describe this feeling. Here
+we use the term dysphoria to encompass these various depressive feelings as
+a way to avoid the confusion inherent in using the word “depressed” to mean
+both the diagnosis and the core symptom. Also, many patients are reluctant to
+use the word “depressed” as they may have difficulty coming to terms with
+their diagnosis. In such cases, other synonyms, including those above, may
+seem less threatening to the patient.
+Some patients deny dysphoria altogether, but instead, describe feeling
+unable to enjoy things that are usually enjoyable to them. We call this
+anhedonia or a lack of pleasure. In addition to dysphoria and anhedonia,
+many depressed patients also report feeling anxious.
+The critical point is that although sadness and even depression may be, in
+themselves, normal reactions, when encountered in the context of a
+depressive disorder, patients do not experience them as normal. Patients will
+often feel genuinely ill and be able to distinguish their emotional state from
+“normal” feelings of sadness. Many will first interpret this as indicative of
+medical illness and present to their primary care doctor complaining of
+feeling “sick” rather than depressed.
+Depressed patients customarily have negative views of the world and
+themselves. Their thought content often includes nondelusional ruminations
+about loss, guilt, suicide, and death. About 10 percent of all depressed
+patients have marked symptoms of a thought disorder, usually thought
+blocking and profound poverty of content.
+A 42-year-old civil servant said that she was so paralyzed by depression
+that she felt that she had no personal initiative and volition left; she
+believed that some malignant force had taken over her actions and that it
+was commenting on every action that she was undertaking. The patient
+recovered fully with thymoleptic medication. There is no reason to
+believe that, in this patient, the feelings of somatic passability and
+running commentary indicated a schizophrenic process.
+Depressed patients may complain of either delusions or hallucinations
+associated with their depressive episode: such patients may have a major
+depressive episode with psychotic features, often called psychotic depression.
+Delusions and hallucinations that are consistent with a depressed mood are
+said to be mood-congruent. Mood-congruent delusions in a depressed person
+include those of guilt, sinfulness, worthlessness, poverty, failure, persecution,
+and terminal somatic illnesses (such as cancer and a “rotting” brain). The
+content of mood-incongruent delusions or hallucinations is not consistent
+with a depressed mood. For example, a mood-incongruent delusion in a
+depressed person might involve grandiose themes of exaggerated power,
+knowledge, and worth.
+Table 7-1
+Neurovegetative Symptoms of Depression
+Common:
+Fatigue, low energy
+Inattention
+Insomnia, early morning awakening
+Poor appetite, associated weight loss
+Sometimes included:
+Decreased libido and sexual performance
+Menstrual irregularities
+Worse depression in the AM
+About two-thirds of all depressed patients contemplate suicide, and 10 to
+15 percent commit suicide. Those recently hospitalized with a suicide attempt
+or suicidal ideation have a higher lifetime risk of successful suicide than
+those never hospitalized for suicidal ideation.
+Depressed patients with psychotic features occasionally consider killing a
+person as a result of their delusional systems, but the most severely depressed
+patients often lack the motivation or the energy to act impulsively or
+violently. Patients with depressive disorders are at increased risk of suicide as
+they begin to improve and regain the energy needed to plan and carry out
+suicide (paradoxical suicide).
+About 50 to 75 percent of all depressed patients have some measure of
+cognitive impairment. Cognitive symptoms include subjective reports of an
+inability to concentrate (84 percent of patients in one study) and impairments
+in thinking (67 percent of patients in another study).
+Most depressed patients are oriented, although some may not have
+sufficient energy or interest to answer questions about these subjects during
+an interview. Memory can be challenging to disentangle from concentration
+difficulties. However, some patients appear to have genuine memory
+difficulties in addition to other cognitive deficits.
+Some depressed patients sometimes seem unaware of their depression and
+do not complain of a mood disturbance even though they exhibit withdrawal
+from family, friends, and activities that previously interested them. Other
+depressed patients, particularly those with disordered thoughts, may be overly
+negative, hyperbolic in their symptomatic description, and hopeless about
+their future. It may be difficult to convince such patients that improvement is
+possible.
+We can assess judgment by reviewing patients’ actions in the recent past
+and their behavior during the interview. Patients with particularly negative
+outlooks should be cautioned not to make important life decisions (e.g.,
+around a relationship or job) until they are “thinking normally” again.
+In interviews and conversations, depressed patients may emphasize the bad
+and minimize the good. They may be pessimistic about past treatment trials.
+A common clinical mistake is to unquestioningly believe a depressed patient
+who states that a previous trial of antidepressant medications did not work.
+Such statements may be false, and they require a confirmation from another
+source. Psychiatrists should not view patients’ misinformation as an
+intentional fabrication; the admission of any hopeful information may be
+impossible for a person in a depressed state of mind.
+Other patients, particularly those with poor insight, may have difficulty
+reporting symptoms or past episodes. Asking about changes in functioning
+rather than emotional states may be helpful (“have there been times that you
+felt unable to work, or care for your children?”).
+Presentation in Special Populations
+Depression in Children and Adolescents. School phobia and
+excessive clinging to parents may be symptoms of depression in children.
+Poor academic performance, substance abuse, antisocial behavior, sexual
+promiscuity, truancy, and running away may be symptoms of depression in
+adolescents.
+Depression in Older People. Depression is more common in older
+persons than it is in the general population. Various studies have reported
+prevalence rates ranging from 25 to almost 50 percent, although the
+percentage of these cases that are caused by major depressive disorder is
+uncertain. Several studies indicate that depression in older persons correlates
+with low socioeconomic status, the loss of a spouse, a concurrent physical
+illness, and social isolation. Other studies have indicated that depression in
+older persons is underdiagnosed and undertreated, perhaps particularly by
+general practitioners. The underrecognition of depression in older persons
+may occur because the disorder appears more often with somatic complaints
+in older than in younger, age groups. Further, ageism may influence and
+cause clinicians to accept depressive symptoms as usual in older patients.
+DIAGNOSIS
+Depressive disorders can take many forms, depending on their severity and
+chronicity. The disorder that we most associate with “classic” depression is
+major depressive disorder, and this is the disorder most often referred to
+when someone reports that they suffer from depression. However, it is
+essential to understand the different varieties of depressive disorders,
+including those not included in some formal classifications, as all are
+significant sources of morbidity.
+Major Depressive Disorder
+The primary feature of major depressive disorder is the occurrence of at least
+one episode of major depression, which is significant depressive symptoms
+that last for a significant time. Table 7-2 compares the different approaches to
+diagnosing major depressive disorder.
+With Psychotic Features. The presence of psychotic features in major
+depressive disorder reflects severe disease and is a poor prognostic indicator.
+We often categorize psychotic symptoms as either mood-congruent, that is, in
+harmony with the mood disorder (“I deserve punishment because I am so
+bad”), or mood-incongruent, not in harmony with the mood disorder. Patients
+with mood-incongruent psychotic symptoms may be more likely to have a
+comorbid primary psychotic disorder, such as schizoaffective disorder or
+schizophrenia.
+With Melancholic Features. Melancholia is one of the oldest terms used
+in psychiatry, dating back to Hippocrates in the 4th century to describe the
+dark mood of depression. We still use it to refer to a depression characterized
+by severe anhedonia, early morning awakening, weight loss, and profound
+feelings of guilt (often over trivial events). It is not uncommon for patients
+who are melancholic to have suicidal ideation. Melancholia is associated with
+changes in the autonomic nervous system and endocrine functions. For that
+reason, we sometimes refer to melancholia as “endogenous depression” or
+depression that arises in the absence of external life stressors or precipitants.
+Table 7-2
+Major Depressive Disorder
+ 
+DSM-5
+ICD-10
+Diagnostic name
+Major Depressive
+Disorder
+Major Depressive
+Episode
+Duration
+2 wk
+ 
+Symptoms
+•  Dysphoria or feeling
+depressed
+•  Anhedonia
+•  ↑ or ↓ weight or
+appetite
+•  ↑ or ↓ sleep
+•  ↑ or ↓ activity
+•  ↓ energy
+•  Depressing thoughts:
+worthlessness, guilt
+•  ↓ concentration
+•  Suicidal ideation/plan
+•  ↓ mood
+•  ↓ energy
+•  ↓ activity
+•  ↓ capacity for
+enjoyment
+•  ↓ interest
+•  ↓ concentration
+•  Fatigue after even
+minimal effort
+•  Disturbed sleep/early
+morning awakening
+•  Disturbed appetite/ ↓
+weight
+•  ↓ self esteem
+•  ↓ self-confidence
+•  Guilt or worthlessness
+•  Mood unreactive to
+circumstances
+•  Anhedonia
+•  Worse symptoms in
+the AM
+•  Psychomotor
+disturbance: agitation
+or retardation
+•  ↓ libido
+Required number
+of symptoms
+5 (1 has to be one of
+the first two listed)
+ 
+Psychosocial
+consequences
+of symptoms
+Distress or impaired
+functioning (social,
+occupational, or
+other significant
+areas)
+Depends on severity
+Exclusions (Not
+better
+explained by):
+Medical illness
+Substance
+Other psychiatric
+disorder
+History of mania or
+hypomania
+Adjustment disorder
+Conduct disorder
+Recurrent depressive
+disorder (which is
+considered a
+separate diagnosis)
+Symptom
+specifiers
+With anxious distress
+•  2+ symptoms of
+anxiety
+With mixed features
+•  3+ manic/hypomanic
+symptoms during the
+depressive episode
+(if occur
+independently,
+diagnose bipolar
+disorder)
+With melancholic
+features
+•  Loss of pleasure or
+reactivity to pleasure
+•  3+ of the following
+•  Severe
+depression/despair
+•  Mood worse in AM
+Depressive reaction
+Psychogenic depression
+Reactive depression
+•  Early morning
+awakening
+•  Psychomotor
+disturbance
+•  Anorexia/weight
+loss
+•  Guilt
+With atypical features
+•  Mood reactivity
+•  2+ of following
+•  Increased
+appetite/weight
+•  Hyposomnia
+•  Leaden paralysis
+•  Rejection sensitivity
+With mood-congruent
+psychotic features
+With mood-
+incongruent
+psychotic features
+With catatonia
+•  Must be present
+during most of
+depressive episode
+With peripartum onset
+With seasonal pattern
+•  Usually occurs during
+a specific season
+Course specifiers With psychotic
+features
+•  Psychotic symptoms
+occurring only during
+the depressive
+Recurrent Depressive
+Disorder (Coded as
+separate disorder):
+Repeated episodes of
+the above symptoms.
+episode
+•  Mood-congruent
+•  Mood-incongruent
+In partial remission
+•  Full criteria no
+longer met
+In full remission
+•  0 symptoms for 2
+mo
+No mania.
+Severity
+specifiers
+Mild: minimal
+symptoms
+Moderate: between
+mild and severe
+Severe: # of symptoms
+and
+severity/dysfunction
+well beyond that
+required for
+diagnosis
+Mild
+•  2–3 symptoms
+•  Functions normal
+despite distress
+Moderate
+•  4+ symptoms
+•  Difficulty with
+functioning
+Severe
+•  Several symptoms
+marked and
+distressing
+•  Loss of self-
+esteem/feels
+worthless and guilty
+•  Suicidal ideation/acts
+•  Somatic symptoms of
+depression
+Severe with psychotic
+symptoms
+•  As above but with
+psychosis
+Other
+•  Atypical depression
+•  Single episodes of
+“masked depression”
+Unspecified
+With Atypical Features. Patients with major depressive disorder with
+atypical features have specific, predictable characteristics. As described
+above, these tend to be the reverse of the neurovegetative symptoms. They
+may, for example, overeat or oversleep. Patients with atypical features have a
+younger age of onset and more severe psychomotor slowing. They also are
+more likely to have comorbid disorders, including anxiety disorders,
+substance use disorder, or somatic symptom disorder. They are easy to
+misdiagnose as having an anxiety disorder rather than a mood disorder.
+Patients with atypical features may also have a long-term course, a diagnosis
+of bipolar I disorder, or a seasonal pattern to their disorder.
+Kevin, a 15-year-old adolescent, was referred to a sleep center to rule out
+narcolepsy. His main complaints were fatigue, boredom, and a need to
+sleep all the time. Although he had always started the day somewhat
+slowly, he now could not get out of bed to go to school. That alarmed his
+mother, prompting sleep consultation. Formerly a B student, he had been
+failing most of his courses in the 6 months before referral. Psychological
+counseling, predicated on the premise that his family’s recent move from
+another city had led to Kevin’s isolation, had not been beneficial.
+Extensive neurologic and general medical workup findings had also
+proven negative. He slept 12 to 15 hours per day but denied cataplexy,
+sleep paralysis, and hypnagogic hallucinations. During psychiatric
+interview, he denied being depressed but admitted that he had lost interest
+in everything except his dog. He had no drive, participated in no
+activities, and had gained 30 lb in 6 months. He believed that he was
+“brain damaged” and wondered whether it was worth living like that. The
+question of suicide disturbed him because it was contrary to his religious
+beliefs. These findings led to the prescription of an antidepressant. Not
+only did the antidepressant reverse the presenting complaints, but it also
+pushed him to the brink of a manic episode. (Courtesy of HS Akiskal,
+M.D.)
+With Catatonic Features. As a symptom, catatonia can be present in
+several mental disorders, most commonly, schizophrenia and mood disorders.
+The hallmark symptoms of catatonia are stupor, blunted affect, extreme
+withdrawal, negativism, and marked psychomotor retardation. The presence
+of catatonic features in patients with mood disorders may have prognostic
+and treatment significance.
+Postpartum Onset. We diagnose the postpartum subtype if the onset of
+symptoms is within 4 weeks postpartum. Postpartum mental disorders
+commonly include psychotic symptoms.
+Seasonal Pattern. Patients with a seasonal pattern to their mood disorders
+tend to experience depressive episodes during a particular season, most
+commonly winter. The pattern has become known as seasonal affective
+disorder (SAD), although DSM-5 does not use this term. There is some
+controversy regarding whether this represents a subtype of major depressive
+disorder or a distinct entity. Either way, the presence of the disorder has
+implications for treatment, as patients with a seasonal pattern to their
+depression may preferentially respond to light therapy.
+Dysthymic Disorder
+Dysthymic disorder (also called dysthymia) is the presence of depressive
+symptoms that are less severe than those of major depressive disorder.
+Although less severe than a major depressive disorder, it is often more
+chronic. Table 7-3 compares the different approaches to diagnosing.
+The most typical feature of dysthymia, also known as persistent depressive
+disorder, is the presence of a depressed mood that lasts most of the day and is
+present almost continuously. There are associated feelings of inadequacy,
+guilt, irritability, and anger; withdrawal from society; loss of interest; and
+inactivity and lack of productivity. The term dysthymia, which means “ill-
+humored,” was introduced in 1980. Before that time, we tended to classify
+patients having dysthymia as having “neurotic depression.”
+Dysthymia is distinguished from major depressive disorder by the fact that
+patients complain that they have always been depressed. Thus, most cases are
+of early-onset, beginning in childhood or adolescence, and, almost always, by
+a patient’s 20s.
+Table 7-3
+Dysthymic Disorder
+ 
+DSM-5
+ICD-10
+Diagnostic name
+Persistent Depressive
+Disorder
+Dysthymia [F43.1]
+Duration
+2+ yr (1+ yr for children)
+≤2-mo symptom free
+during illness
+ 
+Symptoms
+Depressed mood most of
+the time
+↓ appetite
+↓ or ↑ sleep
+↓ energy
+↓ self-esteem
+↓ concentration/decision-
+making ability
+Hopelessness
+Chronically depressed
+mood that does not
+meet criteria for a
+depressive
+episode, though
+criteria may have
+been met in the
+past
+Required number
+of symptoms
+First symptom and 2+ of
+rest
+ 
+Psychosocial
+consequences
+of symptoms
+Distress and functional
+impairment
+ 
+Exclusions
+History of bipolar disorder
+Another mental illness
+Substance
+Another medical illness
+Anxiety
+Depression
+Bereavement
+Schizophrenia
+Symptom
+With pure dysthymic
+ 
+specifiers
+syndrome: criteria for
+depressive episode not
+met in the last 2 yr
+With persistent major
+depressive episode:
+has met diagnostic
+criteria for a
+depressive episode for
+entire 2-yr period
+With intermittent major
+depressive episode,
+with current episode:
+in current episode, 8
+wk+ in last 2 yr with
+subdiagnostic
+symptoms episode
+With intermittent major
+depressive episode,
+without current
+episode: Not currently
+in episode, 1+
+depressive episode in
+past 2 yr
+With anxious distress
+≥2 of following:
+•  Feeling tense
+•  Restlessness
+•  ↓ concentration due
+to worrying
+•  ↑ fear without
+apparent cause
+•  Fear of loss of control
+With mixed features
+—depressive or
+manic/hypomanic
+episode, + with
+additional symptoms of
+other episode but
+subdiagnostic
+With melancholic
+features: see Table 7-
+2
+With atypical features:
+see Table 7-2
+With psychotic features
+•  Mood-congruent
+•  Mood-incongruent
+Course specifiers With peripartum onset—
+episode is during
+pregnancy or ≤4 wk
+after delivery
+ 
+Severity
+specifiers
+Mild: minimal symptoms
+Moderate: between mild
+and severe
+Severe: # of symptoms
+and
+severity/dysfunction
+well beyond that
+required for diagnosis
+ 
+A 27-year-old male grade-school teacher presented with the chief
+complaint that life was a painful duty that had always lacked luster for
+him. He said that he felt “enveloped by a sense of gloom” that was nearly
+always with him. Although he was respected by his peers, he felt “like a
+grotesque failure, a self-concept I have had since childhood.” He stated
+that he merely performed his responsibilities as a teacher and that he had
+never derived any pleasure from anything he had done in life. He said
+that he had never had any romantic feelings; sexual activity, in which he
+had engaged with two different women, had involved pleasureless
+orgasm. He said that he felt empty, going through life without any sense
+of direction, ambition, or passion, a realization that itself was tormenting.
+He had bought a pistol to put an end to what he called his “useless
+existence” but did not carry out suicide, believing that it would hurt his
+students and the small community in which he lived. (Courtesy of HS
+Akiskal, M.D.)
+A late-onset subtype, much less prevalent and not well characterized
+clinically, has been identified among middle-aged and geriatric populations,
+mainly through epidemiologic studies in the community.
+The family history of patients with dysthymia is typically replete with both
+depressive and bipolar disorders, which is one of the more robust findings
+supporting its link to primary mood disorder.
+Other Diagnoses
+Minor Depressive Disorder. Minor depressive disorder consists of
+episodes of depressive symptoms that are less severe than those seen in major
+depressive disorder. The difference between dysthymia and minor depressive
+disorder is primarily the episodic nature of the symptoms in the latter.
+Between episodes, patients with minor depressive disorder have a euthymic
+mood, but patients with dysthymia have virtually no euthymic periods. DSM-
+5 does not include this diagnosis. However, ICD-10 includes it as a mild type
+of depressive episode. DSM-5 would diagnose it as an “Other Specified
+Depressive Disorder.”
+Recurrent Brief Depressive Disorder. Recurrent brief depressive
+disorder consists of brief periods (less than 2 weeks) during which depressive
+episodes are present. Patients with the disorder would meet the diagnostic
+criteria for a major depressive disorder if their episodes lasted longer. Patients
+with recurrent brief depressive disorder differ from patients with dysthymia
+on two counts: they have an episodic disorder, and their symptoms are more
+severe. ICD-10 lists this as an “Other Recurrent Mood Disorder,” whereas
+DSM-5 would diagnose it as an “Other Specified Depressive Disorder.”
+Double Depression. An estimated 40 percent of patients with major
+depressive disorder also meet the criteria for dysthymia, a combination often
+referred to as a double depression. Available data support the conclusion that
+patients with double depression have poorer prognoses than patients with
+major depressive disorder alone. The treatment of patients with double
+depression should be directed toward both disorders because the resolution of
+the symptoms of major depressive episode still leaves these patients with
+significant psychiatric impairment.
+Objective Rating Scales for Depression
+There is a growing literature suggesting that the use of objective scales can
+significantly improve the reliability of depressive diagnoses. They can also be
+useful for tracking the course of an episode. Several validated scales exist.
+Clinician Administered Scales. The Hamilton Rating Scale for
+Depression (HAM-D) is a widely used depression scale. It contains up to 24
+items, each rated on a 0 to 4 or 0 to 2 scale. The clinician evaluates the
+patient’s answers to questions about feelings of guilt, thoughts of suicide,
+sleep habits, and other symptoms of depression, and derives the ratings from
+that interview. The usual scoring cutoffs are 10 to 13 for mild depression, 14
+to 17 for mild-to-moderate depression, and >17 for moderate-to-severe
+depression.
+Self-Administered Scales. The Zung Self-Rating Depression Scale is a
+20-item report scale. A normal range is 34 or less; a depressed score is 50 or
+more. The scale provides a global index of the intensity of a patient’s
+depressive symptoms, including the affective expression of depression.
+The Raskin Depression Scale is a clinician-rated scale that measures the
+severity of a patient’s depression, as reported by the patient and as observed
+by the physician, on a 5-point scale of three dimensions: verbal report,
+displayed behavior, and secondary symptoms. The scale has a range of 3 to
+13; a normal score is 3, and a depressed score is 7 or more.
+DIFFERENTIAL DIAGNOSIS
+The symptoms of depressive disorders commonly overlap with other
+syndromes and disorders. As a result, the differential is wide. Often a careful
+history and examination will make the differential clear. In other cases, one
+may have to observe the disorder over time before the diagnosis becomes
+clear.
+General Medical Disorders
+It is essential to consider whether a patient’s depression is due to a general
+medical condition. Failure to obtain a good clinical history or to consider the
+context of a patient’s current life situation can lead to diagnostic errors.
+Clinicians should have depressed adolescents tested for mononucleosis, and
+we should test patients who are markedly overweight or underweight for
+adrenal and thyroid dysfunctions. We should test patients with appropriate
+risk factors for HIV, and older patients for viral pneumonia and other medical
+conditions.
+Table 7-4 lists some pharmacologic and medical conditions that can cause
+depression.
+Table 7-4
+Pharmacologic Factors and Physical Diseases Associated
+with Onset of Depression
+Pharmacologic
+Steroidal contraceptives
+Reserpine, methyldopa
+Anticholinesterase insecticides
+Amphetamine or cocaine withdrawal
+Alcohol or sedative–hypnotic withdrawal
+Cimetidine, indomethacin
+Phenothiazine antipsychotic drugs
+Thallium, mercury
+Cycloserine
+Vincristine, vinblastine
+Interferon
+Endocrine–metabolica
+Hypothyroidism and hyperthyroidism
+Hyperparathyroidism
+Hypopituitarism
+Addison disease
+Cushing syndrome
+Diabetes mellitus
+Infectious
+General paresis (tertiary syphilis)
+Toxoplasmosis
+Influenza, viral pneumonia
+Viral hepatitis
+Infectious mononucleosis
+Acquired immune deficiency syndrome
+Collagen
+Rheumatoid arthritis
+Lupus erythematosus
+Nutritional
+Pellagra
+Pernicious anemia
+Neurologic
+Multiple sclerosis
+Parkinson disease
+Head trauma
+Complex partial seizures
+Sleep apnea
+Cerebral tumors
+Cerebrovascular infarction (and disease)
+Neoplastic
+Abdominal malignancies
+Disseminated carcinomatosis
+aCholesterol is not mentioned because low levels as a factor in depression have been
+inconsistently reported.
+Many neurologic and medical disorders and pharmacologic agents can
+produce symptoms of depression. Patients with depressive disorders often
+first visit their general practitioners with somatic complaints. We can detect
+most medical causes of depressive disorders with a comprehensive medical
+history, a complete physical and neurologic examination, and routine blood
+and urine tests. The workup should include tests for thyroid and adrenal
+functions because disorders of both of these endocrine systems can appear as
+depressive disorders. In substance-induced mood disorder, a reasonable rule
+of thumb is that any drug a depressed patient is taking should be considered a
+potential factor in the mood disorder. Cardiac drugs, antihypertensives,
+sedatives, hypnotics, antipsychotics, antiepileptics, antiparkinsonian drugs,
+analgesics, antibacterials, and antineoplastics are all commonly associated
+with depressive symptoms.
+Neurologic Conditions
+The most common neurologic problems that manifest depressive symptoms
+are Parkinson disease, dementing illnesses, epilepsy, cerebrovascular
+diseases, and tumors. About 50 to 75 percent of all patients with Parkinson
+disease have marked symptoms of depressive disorder that do not correlate
+with the patient’s physical disability, age, or duration of illness but do
+correlate with the presence of abnormalities found on neuropsychological
+tests. The motor symptoms of Parkinson disease can mask a depressive
+disorder as the motor symptoms are similar. Depressive symptoms often
+respond to antidepressant drugs or ECT. The interictal changes associated
+with temporal lobe epilepsy can mimic a depressive disorder, especially if the
+epileptic focus is on the right side. Depression is a frequent complicating
+feature of cerebrovascular diseases, particularly in the 2 years after the
+episode. Depression is more common in anterior brain lesions than in
+posterior brain lesions and, in both cases, often responds to antidepressant
+medications. Tumors of the diencephalic and temporal regions are
+particularly likely to be associated with depressive disorder symptoms.
+Dementia. Major depressive disorder can have a profound effect on
+concentration and even memory, and can occasionally be confused with a
+neurodegenerative illness such as Alzheimer disorder. At times the term
+“pseudodementia” has been used to describe this. However, that may be ill-
+advised as it implies that the cognitive symptoms are not genuine, which is
+not the case. Clinicians can usually differentiate cognitive symptoms of a
+major depressive disorder from the dementia of a disease, such as dementia
+of the Alzheimer type, on clinical grounds. The cognitive symptoms in major
+depressive disorder have a sudden onset, and other symptoms of the disorder,
+such as self-reproach, are also present. A diurnal variation in the cognitive
+problems, not seen in primary dementias, may occur. Whereas depressed
+patients with cognitive difficulties often do not try to answer questions,
+patients with dementia may confabulate. During an interview, depressed
+patients can sometimes be coached and encouraged into remembering, an
+ability that demented patients lack.
+Other Mental Disorders
+Depression can be a feature of virtually any mental disorder.
+Other Mood Disorders. Clinicians must consider a range of diagnostic
+categories before arriving at a final diagnosis. We should determine whether
+a patient has had episodes of mania-like symptoms, which might indicate any
+one of the bipolar disorders. The depressive episode of a bipolar disorder may
+be identical to that of a major depressive disorder. However, there may be
+certain features that are more predictive of a bipolar disorder, and we list
+these in Table 7-5.
+Table 7-5
+Features of a Depressive Episode that Are More Predictive
+of Bipolar Disorder
+Early age at onset
+Psychotic depression before 25 yr of age
+Postpartum depression, especially one with psychotic features
+Rapid onset and offset of depressive episodes of short duration (less
+than 3 mo)
+Recurrent depression (more than five episodes)
+Depression with marked psychomotor retardation
+Atypical features (reverse vegetative signs)
+Seasonality
+Bipolar family history
+High-density three-generation pedigrees
+Trait mood lability (cyclothymia)
+Hyperthymic temperament
+Hypomania associated with antidepressants
+Repeated (at least three times) loss of efficacy of antidepressants
+after initial response
+Depressive mixed state (with psychomotor excitement, irritable
+hostility, racing thoughts, and sexual arousal during major
+depression)
+From Akiskal. Mood disorders. In: Sadock BJ, Sadock VA, Ruiz P, eds. Kaplan & Sadock’s
+Comprehensive Textbook of Psychiatry. 10th ed. Philadelphia, PA: Wolters Kluwer; 2017.
+If a patient’s symptoms are solely depressive, the patient most likely has a
+depressive disorder. Even then, we must differentiate between the various
+depressive disorders discussed in this chapter. To do this, we must understand
+the severity and the course of the disorder in detail.
+Other Mental Disorders. Substance-related disorders, psychotic disorders
+(Table 7-6), eating disorders, adjustment disorders, and somatoform disorders
+are all commonly associated with depressive symptoms and should be
+considered in the differential diagnosis of a patient with depressive
+symptoms.
+Perhaps the most challenging differential is that between anxiety disorders
+with depression and depressive disorders with marked anxiety. Table 7-7
+compares the unique features of depression with those of anxiety.
+Table 7-6
+Common Causes of Misdiagnosis of Mood Disorder as
+Schizophrenia
+Reliance on cross-sectional rather than longitudinal picture
+Incomplete interepisodic recovery equated with schizophrenic defect
+Equation of bizarreness with schizophrenic thought disorder
+Ascribing irritable and cantankerous mood to paranoid delusions
+Mistaking depressive anhedonia and depersonalization for
+schizophrenic emotional blunting
+Flight of ideas perceived as loose associations
+Lack of familiarity with the phenomenologic approach in assessing
+affective delusions and hallucinations
+Heavy weight given to incidental Schneiderian symptoms
+Adapted from Akiskal HS, Puzantian VR. Psychotic forms of depression and mania. Psychiatr
+Clin North Am. 1979;2:419.
+Table 7-7
+Unique Cross-Sectional Profiles of Clinical Anxiety and
+Depression
+Anxiety
+Depression
+Hypervigilance
+Psychomotor retardation
+Severe tension and panic
+Severe sadness
+Perceived danger
+Perceived loss
+Phobic avoidance
+Loss of interest—anhedonia
+Doubt and uncertainty
+Hopelessness—suicidal
+Insecurity
+Self-deprecation
+Performance anxiety
+Loss of libido
+ 
+Early-morning awakening
+ 
+Weight loss
+Reprinted with permission from Akiskal HS. Toward a clinical understanding of the
+relationship of anxiety and depressive disorders. In: Maser JP, Cloninger CR, eds.
+Comorbidity of Mood and Anxiety Disorders. Washington, DC: American Psychiatric Press;
+1990.
+Uncomplicated Bereavement. Uncomplicated bereavement is not a
+mental disorder even though about one-third of all bereaved spouses for a
+time meet the diagnostic criteria for major depressive disorder. Some patients
+with uncomplicated bereavement do develop a major depressive disorder, but
+we do not make this diagnosis unless the grief does not resolve. The severity
+and course of symptoms are significant differences. Table 7-8 lists features
+that would indicate that normal bereavement has progressed to a depressive
+disorder.
+A 75-year-old widow was brought to treatment by her daughter because
+of severe insomnia and total loss of interest in daily routines after her
+husband’s death 1 year before. She had been agitated for the first 2 to 3
+months and thereafter “sank into total inactivity—not wanting to get out
+of bed, not wanting to do anything, not wanting to go out.” According to
+her daughter, she was married at 21 years of age, had four children, and
+had been a housewife until her husband’s death from a heart attack. Her
+past psychiatric history was negative; premorbid adjustment had been
+characterized by compulsive traits. During the interview, she was dressed
+in black; appeared moderately slowed; and sobbed intermittently, saying
+“I search everywhere for him …. I don’t find him.” When asked about
+life, she said, “Everything I see is black.” Although she expressed no
+interest in food, she did not seem to have lost an appreciable amount of
+weight. The patient declined psychiatric care, stating that she “preferred
+to join her husband rather than get well.” She was too religious to commit
+suicide, but by refusing treatment, she felt that she would “pine away …
+find relief in death and reunion.” (Courtesy of HS Akiskal, M.D.)
+In cases of severe bereavement, regardless of diagnosis, some suggest that
+it would be clinically unwise to withhold antidepressants from many persons
+experiencing such intense mourning.
+COMORBIDITY
+Individuals with major depressive disorders are at an increased risk of having
+one or more additional comorbid disorders. The most frequent disorders are
+alcohol abuse or dependence, panic disorder, obsessive-compulsive disorder
+(OCD), and social anxiety disorder. Conversely, individuals with substance
+use disorders and anxiety disorders also have an elevated risk of lifetime or
+current comorbid depressive disorders.
+Table 7-8
+Signs that a Bereaved Person Has Progressed to a
+Depressive Disorder
+Beliefs. Grieving persons and their relatives perceive bereavement
+as a normal reaction, whereas those with depressive disorder
+often view themselves as sick and may actually believe they are
+losing their minds.
+Emotional reactivity. Unlike the melancholic person, the grieving
+person reacts to the environment and tends to show a range of
+positive effects.
+Psychomotor activity. Marked psychomotor retardation is not
+observed in normal grief.
+Guilt. Although bereaved persons often feel guilty about not having
+done certain things that they believe might have saved the life of
+the deceased loved one (guilt of omission), they typically do not
+experience guilt of commission.
+Delusions. Delusions of worthlessness or sin and psychotic
+experiences in general point toward mood disorder.
+Suicidal ideation. Active suicidal ideation is rare in grief but common
+in major depressive disorder.
+Behaviors. “Mummification” (i.e., keeping the belongings of the
+deceased person exactly as they were before his or her death)
+indicates serious psychopathology.
+Anniversaries. Severe anniversary reactions should alert the
+clinician to the possibility of psychopathology.
+From Akiskal. Mood disorders. In: Sadock BJ, Sadock VA, Ruiz P, eds. Kaplan & Sadock’s
+Comprehensive Textbook of Psychiatry. 10th ed. Philadelphia, PA: Wolters Kluwer; 2017.
+Anxiety
+In anxiety disorders, DSM-5 notes the existence of mixed anxiety–depressive
+disorder. Significant symptoms of anxiety can and often do coexist with
+significant symptoms of depression. Whether patients who exhibit significant
+symptoms of both anxiety and depression are affected by two distinct disease
+processes or by a single disease process that produces both sets of symptoms
+are not yet resolved. Patients of both types may constitute a group of patients
+with mixed anxiety–depressive disorder.
+Substance Use Disorder
+Alcohol dependence frequently coexists with mood disorders. Both patients
+with major depressive disorder and those with bipolar I disorder are likely to
+meet the diagnostic criteria for an alcohol use disorder. The available data
+indicate that alcohol dependence is more strongly associated with a
+coexisting diagnosis of depression in women than in men. In contrast, the
+genetic and family data about men who have both a mood disorder and
+alcohol dependence indicate that they are likely to have two genetically
+distinct disease processes.
+Substance-related disorders other than alcohol dependence are also
+commonly associated with mood disorders. The abuse of substances may be
+involved in precipitating an episode of illness or, conversely, may represent
+patients’ attempts to treat their illnesses. Although manic patients seldom use
+sedatives to dampen their euphoria, depressed patients often use stimulants,
+such as cocaine and amphetamines, to relieve their depression.
+Patients with dysthymia commonly meet the diagnostic criteria for a
+substance-related disorder. This comorbidity can be logical; patients with
+dysthymia tend to develop coping methods for their chronically depressed
+state that involve substance abuse. Therefore, they are likely to use alcohol,
+stimulants such as cocaine, or marijuana, the choice perhaps depending
+primarily on a patient’s social context. The presence of a comorbid diagnosis
+of substance abuse presents a diagnostic dilemma for clinicians; the long-
+term use of many substances can result in a symptom picture
+indistinguishable from that of dysthymia.
+Medical Conditions
+Depression commonly coexists with medical conditions, especially in older
+persons. When depression and medical conditions coexist, clinicians must try
+to 
+determine 
+whether 
+the 
+underlying 
+medical 
+condition 
+is
+pathophysiologically related to the depression or whether any drugs that the
+patient is taking for the medical condition are causing the depression. Many
+studies indicate that the treatment of a coexisting major depressive disorder
+can improve the course of the underlying medical disorder, including cancer.
+COURSE
+Studies of the course and prognosis of mood disorders have generally
+concluded that mood disorders tend to have long courses and that patients
+tend to have relapses.
+Major Depressive Disorder
+Onset. About 50 percent of patients having their first episode of major
+depressive disorder exhibited significant depressive symptoms before the first
+identified episode. Therefore, early identification and treatment of early
+symptoms may prevent the development of a full depressive episode.
+Although symptoms may have been present, patients with major depressive
+disorder usually have not had a premorbid personality disorder. The first
+depressive episode occurs before age 40 years in about 50 percent of patients.
+Later onset is associated with the absence of a family history of mood
+disorders, antisocial personality disorder, and alcohol abuse.
+Duration. An untreated depressive episode lasts 6 to 13 months; most
+treated episodes last about 3 months. The withdrawal of antidepressants
+before 3 months has elapsed almost always results in the return of the
+symptoms. As the course of the disorder progresses, patients tend to have
+more frequent episodes that last longer. Over 20 years, the mean number of
+episodes is five or six.
+Other Depressive Disorders
+About 50 percent of patients with dysthymia experience an insidious onset of
+symptoms before age 25 years. Despite the early onset, patients often suffer
+from the symptoms for a decade before seeking psychiatric help and may
+consider early-onset dysthymia part of life. Patients with an early onset of
+symptoms are at risk for either major depressive disorder or bipolar I disorder
+in the course of their disorder. Studies of patients with the diagnosis of
+dysthymia indicate that about 20 percent progressed to major depressive
+disorder, 15 percent to bipolar II disorder, and fewer than 5 percent to bipolar
+I disorder.
+The prognosis for patients with dysthymia varies. Antidepressive agents
+and specific types of psychotherapies (e.g., cognitive and behavior therapies)
+have positive effects on the course and prognosis of dysthymia. The available
+data about previously available treatments indicate that only 10 to 15 percent
+of patients are in remission 1 year after the initial diagnosis. About 25 percent
+of all patients with dysthymia never attain complete recovery. Overall,
+however, the prognosis is good with treatment.
+PROGNOSIS
+Major depressive disorder is not a benign disorder. It tends to be chronic, and
+patients tend to relapse. Patients hospitalized for the first episode of major
+depressive disorder have about a 50 percent chance of recovering in the first
+year. The percentage of patients recovering after repeated hospitalization
+decreases with time. Many unrecovered patients remain affected by a
+dysthymic disorder. About 25 percent of patients have a recurrence in the
+first 6 months after leaving the hospital. Another 30 to 50 percent recur in the
+following 2 years. About 50 to 75 percent of all patients will have a
+recurrence within 5 years. The incidence of relapse is lower than these figures
+in patients who continue prophylactic psychopharmacological treatment and
+in patients who have had only one or two depressive episodes. In general, as
+a patient experiences more and more depressive episodes, the time between
+the episodes decreases, and the severity of each episode increases.
+Prognostic Indicators
+Many studies have focused on identifying both good and bad prognostic
+indicators in the course of major depressive disorder. Table 7-9 lists some of
+the positive and negative predictors.
+TREATMENT APPROACH
+The treatment of mood disorders is rewarding for psychiatrists. Specific
+treatments are available for depressive episodes, and data indicate that
+prophylactic treatment is also useful. We should be optimistic, as the
+prognosis for each episode is excellent. This fact tends to be welcome news
+for patients and families. Mood disorders are chronic, however, and the
+psychiatrist must educate the patient and the family about future treatment
+strategies.
+Historically, patients with dysthymia either received no treatment or
+received long-term, insight-oriented psychotherapy. Contemporary data
+suggest that the treatments for dysthymia are similar to those for major
+depressive disorder.
+There are several treatment goals. First, the patient’s safety must be
+guaranteed. Second, a complete diagnostic evaluation of the patient is
+necessary. Third, we should initiate a treatment plan that addresses not only
+the immediate symptoms but also the patient’s prospective well-being.
+Although current treatment emphasizes pharmacotherapy and psychotherapy
+addressed to the individual patient, stressful life events increase the chance of
+relapse. Thus, treatment should address the number and severity of stressors
+in patients’ lives.
+Table 7-10 lists the phases of treatment and the typical goals and activities
+for each phase.
+Table 7-9
+Prognostic Indicators for Depression
+Positive Indicators
+Clinical
+Mild severity
+No psychotic symptoms
+Short hospital stay
+No comorbid disease (medical/psychiatric)
+No more than 1 hospitalization
+Advanced age of onset
+Psychosocial
+Solid friendships during adolescence
+Stable family functioning
+Good social/occupational functioning in previous 5 yr
+Negative Indicators
+Comorbid dysthymic disorder and major depressive disorder
+Substance use disorder
+Anxiety symptoms
+>1 previous episodes
+Male
+Hospitalization
+The first and most critical decision a physician must make is whether to
+hospitalize a patient or attempt outpatient treatment. Definite indications for
+hospitalization are the risk of suicide or homicide, a patient’s grossly reduced
+ability to get food and shelter, and the need for diagnostic procedures. A
+history of rapidly progressing symptoms and the rupture of a patient’s natural
+support systems are also indications for hospitalization.
+A physician may safely treat dysthymia and other forms of milder
+depression in the office, seeing the patient frequently. Clinical signs of
+impaired judgment, weight loss, or insomnia should be minimal. The
+patient’s support system should be reliable, neither overinvolved nor
+withdrawing from the patient. Any adverse changes in the patient’s
+symptoms or behavior or the attitude of the patient’s support system may
+suffice to warrant hospitalization.
+Patients with mood disorders are often unwilling to enter a hospital
+voluntarily, and we may have to commit them involuntarily. These patients
+often cannot make decisions because of their slowed thinking, negative
+Weltanschauung (world view), and hopelessness.
+Choosing a Treatment
+Combined Treatments May Offer the Best Option. We often combine
+medication and psychotherapy. If physicians view mood disorders as
+fundamentally evolving from psychodynamic issues, their ambivalence about
+the use of drugs may result in a poor response, noncompliance, and probably
+inadequate dosages for too short a treatment period. Alternatively, if
+physicians ignore the psychosocial needs of a patient, the outcome of
+pharmacotherapy may be compromised. Several trials of a combination of
+pharmacotherapy and psychotherapy for chronically depressed outpatients
+have shown a higher response and higher remission rates for the combination
+than for either treatment used alone.
+Although combination remains the general—and our—recommendation—
+we should point out that there are other views. Some have argued that most
+data suggest that single treatment, either psychopharmacological or
+psychotherapeutic, alone is sufficient for most people, and that combining
+treatments exposes patients to unnecessary costs and adverse effects.
+Somatic Treatments
+Pharmacotherapy. The efficacy of pharmacotherapy for major depressive
+disorder has been well established in more than 500 randomized controlled
+studies. In general, all available antidepressants show an at least modest
+effect compared with placebo. Efficacy is broadly similar across agents, at
+least when compared against placebo. However, tolerability and acceptability
+vary.
+After establishing a diagnosis, we can formulate a pharmacologic treatment
+strategy. Accurate diagnosis is crucial because unipolar and bipolar spectrum
+disorders require different treatment regimens.
+The objective of pharmacologic treatment is symptom remission, not just
+symptom reduction. Patients with residual symptoms, as opposed to full
+remission, are more likely to experience a relapse or recurrence of mood
+episodes and to experience ongoing impairment of daily functioning.
+The use of specific pharmacotherapy approximately doubles the chances
+that a depressed patient will recover in 1 month. All currently available
+antidepressants may take up to 3 to 4 weeks to exert significant therapeutic
+effects, although they may begin to show their effects earlier. The choice of
+antidepressants partly depends on the side effect profile that is least
+objectionable to a given patient’s physical status, temperament, and lifestyle.
+Chapter 21 discusses the many classes of antidepressants. Although most
+antidepressants seem to have similar mechanisms of action and hence similar
+efficacy, there are some variations across classes. This variation gives us
+some diversity of choice. Although the first antidepressant drugs, the
+monoamine oxidase inhibitors (MAOIs) and tricyclic antidepressants
+(TCAs), are still in use, newer compounds have made the treatment of
+depression more “clinician and patient-friendly.”
+Table 7-10
+Phases of Treatment
+Treatment
+Phase
+Duration Goals
+Activities
+Acute and
+continuation
+8–12 wk
+Achieve
+symptomatic
+remission
+Monitor side
+effects
+Restore function
+Establish therapeutic
+alliance
+Provide
+psychoeducation
+Select optimal
+antidepressant
+treatment(s)
+Supportive and
+measurement-
+based care
+Monitor progress
+Maintenance
+6–24 mo
+or
+longer
+Return to full
+function and
+quality of life
+Prevention of
+recurrence
+Continue
+psychoeducation
+Rehabilitate
+Manage
+comorbidities
+Monitor for
+recurrence
+Modified from Lam RW, McIntosh D, Wang J, Enns MW, Kolivakis T, Michalak EE, Sareen J,
+Song WY, Kennedy SH, MacQueen GM, Milev RV, Parikh SV, Ravindran AV; CANMAT
+Depression Work Group. Canadian Network for Mood and Anxiety Treatments (CANMAT)
+2016 clinical guidelines for the management of adults with major depressive disorder: section
+1. Disease burden and principles of care. Can J Psychiatry. 2016;61(9):510–523.
+Table 7-11
+SSRI and SNRI Antidepressant Medications and Their Side
+Effect Profiles
+ 
+ 
+Side Effect Frequency
+Drug Class
+Recommended
+Dose Range
+(mg)
+10–30%
+>30%
+SSRI
+ 
+ 
+ 
+Citalopram
+20–40
+Nausea, dry mouth,
+sweating
+None
+Escitalopram
+10–20
+Male sexual
+dysfunction and
+nausea
+None
+Fluoxetine
+20–60
+Nausea, dry mouth,
+somnolence,
+nervousness,
+anxiety,
+insomnia,
+tremor, anorexia
+None
+Fluvoxamine
+100–300
+Dry mouth,
+Nausea
+headaches,
+somnolence,
+agitation,
+insomnia,
+sweating, tremor,
+anorexia,
+dizziness,
+constipation
+Paroxetine
+20–60
+Nausea, diarrhea,
+dry mouth,
+headaches,
+somnolence,
+insomnia,
+sweating,
+asthenia, male
+sexual
+dysfunction,
+dizziness
+None
+Sertraline
+50–200
+Nausea, diarrhea,
+dry mouth,
+headaches,
+somnolence,
+insomnia,
+fatigue, tremor,
+male sexual
+dysfunction,
+dizziness
+None
+SNRI
+ 
+ 
+ 
+Venlafaxine
+75–375
+Headaches,
+somnolence, dry
+mouth,
+dizziness,
+nervousness,
+insomnia,
+Nausea
+sweating, male
+sexual
+dysfunction
+Desvenlafaxine
+50–100
+Dry mouth,
+dizziness,
+nausea,
+sweating
+None
+Duloxetine
+30–120
+Nausea, dry mouth,
+constipation,
+insomnia, male
+sexual
+dysfunction
+None
+Levomilnacipran
+20–80
+Nausea, dry mouth,
+headaches, male
+sexual
+dysfunction
+None
+Other Second-Generation and Novel Antidepressants
+Agomelatinea
+25–50
+None
+None
+Bupropion
+150–450
+Insomnia, dry
+mouth, nausea
+Headaches
+Mirtazapine
+15–60
+Dry mouth,
+constipation,
+increased
+appetite, weight
+gain
+Somnolence
+Moclobemidea
+300–600
+None
+None
+Vilazodone
+10–40
+Diarrhea, nausea,
+headaches
+None
+Vortioxetine
+10–20
+Nausea
+None
+aNot routinely available in the United States.
+Data from Kennedy SH, Lam RW, McIntyre RS, Tourjman SV, Bhat V, Blier P, Hasnain M,
+Jollant F, Levitt AJ, MacQueen GM, McInerney SJ, McIntosh D, Milev RV, Müller DJ, Parikh
+SV, Pearson NL, Ravindran AV, Uher R; CANMAT Depression Work Group. Canadian
+Network for Mood and Anxiety Treatments (CANMAT) 2016 clinical guidelines for the
+management of adults with major depressive disorder: section 3. Pharmacological treatments.
+Can J Psychiatry. 2016;61(9):540–560; Kennedy SH, Rizvi SJ. Chapter 246: SSRIs and
+related compounds. In: Stolerman I, ed. Encyclopedia of Pharmacology. New York: Springer;
+2010.
+Table 7-11 lists selective serotonin reuptake inhibitors (SSRIs) and
+serotonin-norepinephrine reuptake inhibitors (SNRIs) by class as well as their
+side-effect profiles.
+GENERAL CLINICAL GUIDELINES. The most common clinical mistake leading to
+an unsuccessful trial of an antidepressant drug is the use of too low a dosage
+for too short a time. Unless adverse events prevent it, the dosage of an
+antidepressant should be raised to the maximum recommended level and
+maintained at that level for at least 4 or 5 weeks before a drug trial is
+considered unsuccessful. Alternatively, if a patient is improving clinically on
+a low dosage of the drug, this dosage should not be raised unless clinical
+improvement stops before obtaining a maximal benefit. When a patient does
+not begin to respond to appropriate dosages of a drug after 2 or 3 weeks,
+clinicians may decide to obtain a plasma concentration of the drug if such a
+test is available. The test may indicate either noncompliance or a particularly
+unusual pharmacokinetic disposition of the drug and may thereby suggest an
+alternative dosage.
+INITIAL MEDICATION SELECTION. The available antidepressants do not differ in
+overall 
+efficacy, 
+speed 
+of 
+response, 
+or 
+long-term 
+effectiveness.
+Antidepressants, however, do differ in their pharmacology, drug–drug
+interactions, short- and long-term side effects, the likelihood of
+discontinuation symptoms, and ease of dose adjustment. Most often, we start
+with second- and third-generation antidepressants. Among them, the selective
+serotonin reuptake inhibitors (SSRIs) remain the most commonly used
+medications for depression.
+Selection of the initial treatment depends on the chronicity of the
+condition, course of illness (a recurrent or chronic course increases the
+likelihood of subsequent depressive symptoms without treatment), family
+history of illness and treatment response, symptom severity, concurrent
+general medical or other psychiatric conditions, prior treatment responses to
+other acute-phase treatments, potential drug–drug interactions, and patient
+preference.
+In general, approximately 45 to 60 percent of all outpatients with
+uncomplicated (i.e., minimal psychiatric and general medical comorbidity),
+nonchronic, nonpsychotic major depressive disorder who begin treatment
+with medication respond (i.e., achieve at least a 50 percent reduction in
+baseline symptoms); however, only 35 to 50 percent achieve remission (i.e.,
+the virtual absence of depressive symptoms).
+DURATION AND PROPHYLAXIS. We should maintain antidepressant treatment
+for at least 6 months or the length of a previous episode, whichever is greater.
+When discontinuing antidepressant treatment, the drug dose should be
+tapered gradually over 1 to 2 weeks, depending on the half-life of the
+particular compound.
+Prophylactic treatment with antidepressants is effective in reducing the
+number and severity of recurrences. One study concluded that when episodes
+are less than 21/2 years apart, we should recommend prophylactic treatment.
+Another factor suggesting prophylactic treatment is the seriousness of
+previous depressive episodes. Episodes that have involved significant suicidal
+ideation or impairment of psychosocial functioning may indicate that the risk
+of stopping treatment is too considerable.
+Prevention of new mood episodes (i.e., recurrences) is the aim of the
+maintenance phase of treatment. Only patients with recurrent or chronic
+depressions are candidates for maintenance treatment. Several studies
+indicate that maintenance antidepressant medication appears to be safe and
+effective for the treatment of chronic depression.
+TREATMENT OF SPECIFIC DEPRESSIVE DISORDERS. Clinical types of major
+depressive episodes may have varying responses to particular antidepressants
+or drugs other than antidepressants. Antidepressants with dual action on both
+serotonergic and noradrenergic receptors may have greater efficacy in
+melancholic depressions. We can treat patients with seasonal winter
+depression with light therapy.
+Treatment of major depressive episodes with psychotic features may
+require a combination of an antidepressant and an atypical antipsychotic.
+Several studies have also shown that ECT is useful for this indication—
+perhaps more effective than pharmacotherapy.
+For those with atypical symptom features, strong evidence exists for the
+effectiveness of MAOIs. SSRIs and bupropion are also of use in atypical
+depression.
+COMORBID DISORDERS. The simultaneous presence of another disorder can
+affect initial treatment selection. For example, the successful treatment of an
+OCD associated with depressive symptoms usually results in remission of the
+depression. Similarly, when panic disorder occurs with major depression,
+medications with demonstrated efficacy in both conditions are preferred (e.g.,
+tricyclics and SSRIs). In general, the nonmood disorder dictates the choice of
+treatment in comorbid states.
+Concurrent substance abuse raises the possibility of a substance-induced
+mood disorder, which must be evaluated by history or by requiring
+abstinence for several weeks. Abstinence often results in remission of
+depressive symptoms in substance-induced mood disorders. For those with
+continuing significant depressive symptoms, even with abstinence, an
+independent mood disorder is diagnosed and treated.
+General medical conditions are established risk factors in the development
+of depression. The presence of a major depressive episode is associated with
+increased morbidity or mortality of many general medical conditions (e.g.,
+cardiovascular disease, diabetes, cerebrovascular disease, and cancer).
+THERAPEUTIC USE OF SIDE EFFECTS. Choosing more sedating antidepressants
+(such as mirtazapine or paroxetine) for more anxious, depressed patients or
+more activating agents (bupropion) for more psychomotor-retarded patients is
+not as helpful as one might think. For example, any short-term benefits with
+paroxetine or mirtazapine on symptoms of anxiety or insomnia may become
+liabilities over time. These drugs often continue to be sedating in the longer
+run, which can lead to patients prematurely discontinuing medication and
+increase the risk of relapse or recurrence. Some practitioners use adjunctive
+medications, such as hypnotics or anxiolytics, combined with antidepressants
+to provide more immediate symptom relief or to cover those side effects to
+which most patients ultimately adapt.
+Understanding a patient’s prior treatment history is essential because an
+earlier response typically predicts future responses. A documented failure on
+a properly conducted trial of a particular antidepressant class is grounds to
+choose an agent from an alternative class. The history of a first-degree
+relative responding to a particular drug is associated with a positive response
+to the same class of agents in the patient.
+ACUTE TREATMENT FAILURES. Patients may not respond to medication,
+because (1) they cannot tolerate the side effects, even in the face of an
+excellent clinical response; (2) an idiosyncratic adverse event may occur; (3)
+the clinical response is not adequate; or (4) the wrong diagnosis has been
+made. Acute phase medication trials should last 4 to 6 weeks to allow for
+adequate time for meaningful symptom reduction. Most (but not all) patients
+who ultimately respond fully show at least a partial response by the fourth
+week, assuming an adequate dose. A “partial response” is defined as at least a
+20 to 25 percent reduction in pretreatment depressive symptom severity.
+Patients who have not even a partial response in that time likely need a
+change of treatment. More extended periods—8 to 12 weeks or longer—are
+needed to define the ultimate degree of symptom reduction achievable with a
+medication. Approximately half of patients require a second medication
+treatment trial because the initial treatment is poorly tolerated or ineffective.
+Selecting Second Treatment Options. When the initial treatment is
+unsuccessful, switching to an alternative treatment or augmenting the current
+treatment is a standard option. The choice between switching from the single
+initial treatment to a new single treatment (as opposed to adding a second
+treatment to the first one) rests on the patient’s prior treatment history, the
+degree of benefit achieved with the initial treatment, and patient preference.
+As a rule, switching rather than augmenting is preferred after an initial
+medication failure. On the other hand, augmentation strategies are helpful
+with patients who have gained some benefit from the initial treatment but
+who have not achieved remission. A review of the different strategies
+suggested there is some evidence suggesting that both strategies do confer
+some benefit. However, the evidence is inadequate to suggest one strategy
+over another.
+When switching from one monotherapy to another, the usual suggestion is
+to pick a medication in a different class. For example, we might switch from
+an SSRI to an SNRI. However, when putting these assumptions to the test, it
+is difficult to find any advantage for any particular strategy. For example, in
+the landmark STAR*D study, which remains one of the most extensive
+studies of treatment strategies following initial failure, although medication
+switches were modestly helpful, both switches within and outside a class
+were equally effective.
+Among augmentation options, several approaches have reasonable
+evidence. Several antipsychotics, most notably quetiapine and aripiprazole,
+are effective for augmentation. Lithium augmentation is also effective for
+augmenting both SSRIs and TCAs. There are also positive studies of thyroid
+hormone. However, this strategy is rarely used in clinical practice owing to
+the need for ongoing monitoring and potential adverse effects. Several other
+agents have been studied, including bupropion, buspirone, lamotrigine,
+methylphenidate, and pindolol; however, these have limited placebo-
+controlled data. One meta-analysis of the available data on switching
+strategies concluded that quetiapine and aripiprazole have the best evidence
+as augmentation agents. However, we should use these cautiously given their
+side effect profile.
+NOVEL PHARMACOLOGIC AGENTS
+Ketamine. The anesthetic agent ketamine is effective in treatment-resistant
+depression. It has a mechanism of action that inhibits the postsynaptic
+glutamate-binding protein N-methyl-D-aspartate (NMDA) receptor. Because
+abnormalities in glutamatergic signaling seem to have a role in major
+depressive disorder, this may account for its efficacy. Until recently,
+ketamine was only available intravenously, limiting its use as we had to
+monitor patients while they received an infusion of the drug over 30 minutes
+in a clinical setting. The most common side effects are dizziness, headache,
+and poor coordination, which are transitory. Dissociative symptoms,
+including hallucinations, may also occur. A positive response is usually seen
+within 24 hours, making this a genuinely novel substance in that it appears to
+act much more rapidly than standard antidepressants. However, the effect
+seems to be short-lived, and wears off after between 2 and 7 days, again
+limiting its use. There are little data on longer-term treatment as well as
+concern over associated adverse effects, particularly the psychogenic effect.
+Also, the agent has an abuse potential, making it less attractive as a long-term
+option.
+More recently, esketamine in a nasal spray formulation was approved by
+the FDA for treatment-resistant depression. Given the abuse risk, it is only
+available through a restricted distribution system. Most of the supportive
+evidence for the agent is from short-term use. However, one longer-term
+study suggested that continuation treatment could be effective for some
+patients.
+Brexanolone. 
+Brexanolone 
+is 
+an 
+intravenous 
+formulation 
+of
+allopregnanolone, which was approved by the FDA in 2019 for the treatment
+of postpartum depression. It is a neuroactive steroid that also has a
+neuroactive effect, functioning as an allosteric modulator of GABAA, which
+may be central to the mechanism of postpartum depression. It is also only
+available in the United States through a restricted program that requires
+administrating the drug in a clinical setting over 60 hours. The most common
+adverse effects are sleepiness, dry mouth, loss of consciousness, and flushing.
+As with ketamine, brexanolone differs from standard antidepressants in its
+apparent rapid effect, reducing depressive symptoms as early as 24 hours
+after administration. In trials, the effect continued for at least 30 days. As of
+this writing, phase 3 trials for an oral version of the medication have
+promising results.
+Other Somatic Treatments
+NEUROSTIMULATION
+Vagal Nerve Stimulation. Experimental stimulation of the vagus nerve in
+several studies designed for the treatment of epilepsy found that patients
+showed improved mood. This observation led to the use of left vagal nerve
+stimulation (VNS) using an electronic device implanted in the skin, similar to
+a cardiac pacemaker. Preliminary studies have shown that many patients with
+chronic, recurrent major depressive disorder went into remission when treated
+with VNS. The mechanism of action of VNS to account for improvement is
+unknown. The vagus nerve connects to the enteric nervous system and, when
+stimulated, may cause the release of peptides that act as neurotransmitters.
+Transcranial Magnetic Stimulation. Transcranial magnetic stimulation
+(TMS) shows promise as a treatment for depression. It involves the use of
+very short pulses of magnetic energy to stimulate nerve cells in the brain. The
+FDA has indicated this treatment for depression in adult patients who have
+failed to achieve satisfactory improvement from one prior antidepressant
+medication at or above the minimal effective dose and duration in the current
+episode.
+Repetitive transcranial magnetic stimulation (rTMS) produces focal
+secondary electrical stimulation of targeted cortical regions. It is
+nonconvulsive, requires no anesthesia, has a safe side effect profile, and is
+not associated with cognitive side effects.
+The patients do not require anesthesia or sedation and remain awake and
+alert. It is a 40-minute outpatient procedure that is prescribed by a
+psychiatrist and performed in a psychiatrist’s office. The treatment is
+typically administered daily for 4 to 6 weeks. The most common adverse
+event related to treatment was scalp pain or discomfort.
+TMS therapy is contraindicated in patients with implanted metallic devices
+or nonremovable metallic objects in or around the head.
+PHOTOTHERAPY. Phototherapy (light therapy) was introduced in 1984 as a
+treatment for SAD (mood disorder with seasonal pattern). In this disorder,
+patients typically experience depression as the photoperiod of the day
+decreases with advancing winter. Women represent at least 75 percent of all
+patients with seasonal depression, and the mean age of presentation is 40
+years. Patients rarely present older than the age of 55 years with SAD.
+Phototherapy typically involves exposing the affected patient to bright
+light in the range of 1,500 to 10,000 lux or more, typically with a lightbox
+that sits on a table or desk. Patients sit in front of the box for approximately 1
+to 2 hours before dawn each day. Some patients may also benefit from
+exposure after dusk. Alternatively, some manufacturers have developed light
+visors, with a light source built into the brim of the hat. These light visors
+allow mobility, but recent controlled studies have questioned the use of this
+type of light exposure. Trials have typically lasted 1 week, but longer
+treatment durations may be associated with a more significant response.
+Phototherapy is usually well tolerated. Newer light sources tend to use
+lower light intensities and come equipped with filters; patients are instructed
+not to look directly at the light source. As with any effective antidepressant,
+phototherapy, on rare occasions, has been implicated in switching some
+depressed patients into mania or hypomania.
+In addition to seasonal depression, the other significant indication for
+phototherapy may be in sleep disorders. Phototherapy can decrease the
+irritability and diminished functioning associated with shift work. Sleep
+disorders in geriatric patients have reportedly improved with exposure to
+bright light during the day. Likewise, some evidence suggests that jet lag
+might respond to light therapy. Preliminary data indicate that phototherapy
+may benefit some patients with OCD that has a seasonal variation.
+SLEEP DEPRIVATION. Sleep disturbances are common in depression.
+Depression can be associated with either hypersomnia or insomnia. Sleep
+deprivation may temporarily relieve depression in those who have unipolar
+depression. Approximately 60 percent of patients with depressive disorders
+exhibit significant but transient benefits from total sleep deprivation. The
+positive results usually reverse by the next night of sleep. Several strategies
+have been used in an attempt to achieve a more sustained response to sleep
+deprivation. One method used serial total sleep deprivation with a day or two
+of normal sleep in between. This method does not achieve a sustained
+antidepressant response because the depression tends to return during the
+“normal sleep” days. Another approach used phase delay in the time patients
+go to sleep each night, or partial sleep deprivation. In this method, patients
+may stay awake from 2 AM to 10 PM daily. Up to 50 percent of patients get
+same-day antidepressant effects from partial sleep deprivation, but this
+benefit also tends to wear off in time. In some reports, however, serial partial
+sleep deprivation has been used successfully to treat insomnia associated with
+depression. The third, and probably most useful strategy combines sleep
+deprivation with pharmacologic treatment of depression. Several studies have
+suggested that total and partial sleep deprivation followed by immediate
+treatment with an antidepressant or lithium sustains the antidepressant effects
+of sleep deprivation. Likewise, several reports have suggested that sleep
+deprivation accelerates the response to antidepressants. Sleep deprivation
+may also improve premenstrual dysphoria.
+Table 7-12
+Evidence-Based Psychotherapies for Major Depressive
+Disorder
+Treatment
+Conceptualization of
+Disorder Etiology
+Sample Interventions
+Behavioral
+therapy
+Deficit of reinforcers,
+including pleasant
+activities and positive
+interpersonal
+contacts
+Increase activity level
+ 
+Structured goal setting
+ 
+Interpersonal skills
+training
+Cognitive-
+behavioral
+therapy
+Interaction of beliefs with
+matching stressor
+Identify and challenge
+automatic thoughts
+ 
+ 
+Engage in activities that
+provide evidence
+disproving
+dysfunctional beliefs
+ 
+ 
+Modify core beliefs by
+reviewing evidence
+Interpersonal
+psychotherapy
+Interpersonal
+vulnerabilities arising
+from early attachment
+and learned
+relationship patterns
+Develop awareness of
+patterns in primary
+relationships and the
+therapeutic
+relationship
+ 
+ 
+Interpersonal skills
+training
+ 
+ 
+Communication
+analysis
+Behavioral
+marital
+Marital distress
+increases stress
+Assertive
+communication
+therapy
+while impairing
+support resources
+training
+ 
+Active listening
+exercises
+ 
+Problem-solving skills
+ 
+Increasing reinforcing
+behaviors toward
+spouse
+Psychosocial Therapy
+Three types of short-term psychotherapies—cognitive therapy, interpersonal
+therapy, and behavior therapy—have extensive studies for the treatment of
+major depressive disorder. In addition to these individual therapies, there are
+positive studies for behavioral marital therapy as well. Table 7-12 lists the
+evidence-based psychotherapies for major depressive disorder.
+There are no generally accepted guidelines for choosing one therapy over
+another. The National Institute of Mental Health (NIMH) Treatment of
+Depression Collaborative Research Program did find some possible
+predictors of good response to specific treatments. Table 7-13 summarizes
+those findings.
+Cognitive Therapy. Cognitive therapy, originally developed by Aaron
+Beck, focuses on the cognitive distortions postulated to be present in major
+depressive disorder. Such distortions include selective attention to the
+negative aspects of circumstances and unrealistically morbid inferences about
+consequences. For example, apathy and low energy result from a patient’s
+expectation of failure in all areas. The goal of cognitive therapy is to alleviate
+depressive episodes and prevent their recurrence by helping patients identify
+and test negative cognitions; develop alternative, flexible, and positive ways
+of thinking; and rehearse new cognitive and behavioral responses.
+In this example, the therapist takes a cognitive approach when a patient
+shows up late to an appointment.
+Therapist: You mentioned that you were upset because you were late.
+Can you tell me what you were thinking when you realized you were
+late?
+Patient: I figured you’d be angry.
+Therapist: Okay, and when you thought I’d be angry, how did you feel?
+Patient: Pretty nervous.
+Therapist: So that is what we will focus on in here, how your thinking in
+different situations influences how you feel. In this case, you were late,
+thought “he’ll be angry,” and felt nervous. Our goal is to test out the
+beliefs, like “he’ll be angry,” and change them when they aren’t healthy
+or accurate. The great thing is that you sort of implicitly tested out the
+belief that I’ll be angry by showing up. Was I angry?
+Patient: You didn’t seem angry.
+Table 7-13
+Predictors 
+of 
+Response 
+to 
+Several 
+Therapies 
+for
+Depression
+Treatment
+Predictors
+Interpersonal psychotherapy
+Low social dysfunction
+High depression severity
+Cognitive-behavioral therapy
+Low cognitive dysfunction
+Pharmacotherapy
+Low cognitive dysfunction
+High depression severity
+High work dysfunction
+Data from Sotsky SM, Glass DR, Shea MT, Pilkonis PA, Collins JF, Elkin I, Watkins JT, Imber
+SD, Leber WR, Moyer J, Oliveri ME. Patient predictors of response to psychotherapy and
+pharmacotherapy: findings in the NIMH Treatment of Depression Collaborative Research
+Program. Am J Psychiatry. 1991;148:997–1108.
+Therapist: How anxious did you feel once we started talking?
+Patient: Well, I’m feeling more comfortable.
+Therapist: What thoughts do you have now about me being angry?
+Patient: I don’t think you’re angry.
+Therapist: So, this is an example of what we’re going to be doing in
+therapy—I’ll be helping you to identify thoughts that make you feel bad.
+We’re then going to work together to come up with ways to check them
+out and change them if they’re not true or accurate. You checked out
+whether I was angry by observing me, and you changed your thought,
+and, now, I get the impression that you feel better.
+Studies have shown that cognitive therapy is useful in the treatment of
+major depressive disorder. Most studies found that cognitive therapy is equal
+in efficacy to pharmacotherapy and is associated with fewer adverse effects
+and better follow-up than pharmacotherapy. Some of the best-controlled
+studies have indicated that the combination of cognitive therapy and
+pharmacotherapy is more efficacious than either therapy alone, although
+other studies have not found that additive effect.
+Interpersonal Therapy. Interpersonal therapy, developed by Gerald
+Klerman, focuses on one or two of a patient’s current interpersonal problems.
+This therapy has two assumptions. First, current interpersonal problems are
+likely to have their roots in early dysfunctional relationships. Second, current
+interpersonal problems are likely to be involved in precipitating or
+perpetuating the current depressive symptoms. Controlled trials have
+indicated that interpersonal therapy is effective for treatment of major
+depressive disorder and, not surprisingly, may be specifically helpful in
+addressing interpersonal problems. Some studies indicate that interpersonal
+therapy may be the most effective method for severe major depressive
+episodes when the treatment choice is psychotherapy alone.
+The interpersonal therapy program usually consists of 12 to 16 weekly
+sessions and is characterized by an active therapeutic approach. Intrapsychic
+phenomena, such as defense mechanisms and internal conflicts, are not
+addressed. Discrete behaviors—such as lack of assertiveness, impaired social
+skills, and distorted thinking—may be addressed but only in the context of
+their meaning in, or their effect on, interpersonal relationships.
+Behavior Therapy. Behavior therapy rests on the hypothesis that
+maladaptive behavioral patterns result in a person’s receiving little positive
+feedback and perhaps outright rejection from society. By addressing
+maladaptive behaviors in therapy, patients learn to function in the world in
+such a way that they receive positive reinforcement. Behavior therapy for
+major depressive disorder has not yet been the subject of many controlled
+studies. The limited data indicate that it is an effective treatment for major
+depressive disorder.
+Psychoanalytically Oriented Therapy. Although not as well researched
+as those three therapies, many clinicians use psychoanalytically oriented
+psychotherapy as their primary method. What differentiates the short-term
+psychotherapy methods from the psychoanalytically oriented approach are
+the active and directive roles of the therapist, the directly recognizable goals,
+and the endpoints for short-term therapy.
+The psychoanalytic approach to mood disorders uses psychoanalytic
+theories about depression. The goal of psychoanalytic psychotherapy is to
+effect a change in a patient’s personality structure or character, not merely to
+alleviate symptoms. Improvements in interpersonal trust, capacity for
+intimacy, coping mechanisms, the capacity to grieve, and the ability to
+experience a wide range of emotions are some of the aims of psychoanalytic
+therapy. Treatment often requires the patient to experience periods of
+heightened anxiety and distress during therapy, which may continue for
+several years.
+Accumulating evidence is encouraging about the efficacy of dynamic
+therapy. In a randomized, controlled trial comparing psychodynamic therapy
+with cognitive-behavioral therapy, the outcome of the depressed patients was
+the same in the two treatments.
+Family Therapy. Family therapy is usually the first-line treatment for major
+depressive disorder, but increasing evidence indicates that helping a patient
+with a mood disorder to reduce and cope with stress can lessen the chance of
+a relapse. We should consider family therapy if the disorder jeopardizes a
+patient’s marriage or family functioning or if the mood disorder is promoted
+or maintained by the family situation. Family therapy examines the role of
+the mood-disordered member in the overall psychological well-being of the
+whole family; it also examines the role of the entire family in the
+maintenance of the patient’s symptoms. Patients with mood disorders have a
+high rate of divorce, and about 50 percent of all spouses report that they
+would not have married or had children if they had known that the patient
+was going to develop a mood disorder.
+THE EPIDEMIOLOGY OF DEPRESSION
+Research on the epidemiology of depression, both in the United States and
+worldwide, has considerably broadened our understanding of the disorder.
+We have discovered that depression is much more common than once
+thought. It is also one of the more debilitating disorders known to humanity,
+as it often affects individuals during what should be their most productive
+years. Hence the depressive disorders are one of the most costly disorders in
+society.
+Measuring the Incidence and Prevalence of Major Depressive
+Disorder Is Challenging
+Measuring the true incidence of major depressive disorder is complicated and
+highly dependent on the methods used to collect the sample, definitions of the
+disorder, and the particular instruments used to measure depression. For
+example, studies that use self-assessment tend to report higher incidences
+than studies using clinician-rated instruments. The timing of a study likely
+affects the results as well. As depressive illness become less stigmatized,
+persons may be more willing to endorse symptoms of the disorder to the
+well-meaning strangers who knock at their door, call their phone, or email
+them and identify themselves as researchers.
+Incidence and Prevalence
+In a reasonably recent meta-analysis, which included 90 studies from 30
+countries done from 1994 to 2014, with combined data on more than 1
+million participants, the point prevalence for depression was 12.9 percent, the
+1-year prevalence was 7.2 percent, and the lifetime prevalence was 10.8
+percent. There was significant heterogeneity among the different studies.
+FIGURE 7-1
+Lifetime prevalence of major depression across the world.
+In the United States, the most recent epidemiologic data is from the
+National Survey on Drug Use and Health (NSDUH), sponsored by the
+Substance Abuse and Mental Health Services Administration (SAMHSA).
+Using a definition of a major depressive episode based on DSM-5, they found
+the overall 1-year prevalence of a major depressive episode to be 7.1 percent,
+hence very similar to the international data. Figure 7-1 summarizes some of
+the international prevalence data as it related to per capita income.
+Sex
+An almost universal observation, independent of country or culture, is that
+depression is more common in women than men. In the international meta-
+analysis, the aggregate prevalence for women was 14.4 percent versus 11.5
+percent in men. In the United States, women were more likely to report a
+major depressive episode in the past year (8.7 percent) than men (5.3
+percent).
+There are various possible explanations, both biologic, psychological, and
+social, for this difference. A women’s unequal status in many societies may
+make women more vulnerable to depression. Although this remains a valid
+hypothesis, it is notable that in societies where women have gained a better
+level of status, such as many Western societies, the ratio has not significantly
+changed. 
+Although 
+the 
+explanation 
+is 
+undoubtedly 
+complex 
+and
+multifactorial, the weight of existing evidence suggests that biologic
+differences between men and women, such as variations in hormonal levels,
+do account for at least part of this difference.
+Age
+The mean age of onset for major depressive disorder is about 40 years, with
+50 percent of all patients having an onset between the ages of 20 and 50
+years. Major depressive disorder can also begin in childhood or old age.
+Some epidemiologic data suggest that the incidence of major depressive
+disorder may be increasing among younger persons. For example, in the
+SAMHSA study, major depressive disorder was almost twice as prevalent in
+adolescents as it was in adults, the most substantial difference being seen in
+adolescent females who reported a 1-year prevalence of major depression of
+20 percent. The highest 1-year prevalence for major depressive disorder was
+in younger adults (adults ages 18 to 25).
+Marital Status
+Major depressive disorder occurs most often in persons without close
+interpersonal relationships and in those who are divorced or separated.
+Socioeconomic and Cultural Factors
+There is no proven correlation between socioeconomic status and major
+depressive disorder. Depression may be more common in rural areas than in
+urban areas. However, the most recent international meta-analysis described
+above did not find such a difference. It may be that technology and
+globalization have been able to narrow the differences between rural and
+urban settings.
+Racial and ethnic differences may be particularly challenging to measure
+and may be highly dependent on method, approach, and locale. In the
+SAMSHA study, the highest prevalence was seen in White and Native
+American respondents.
+THE NEUROBIOLOGY OF DEPRESSION
+Since the time of Kraepelin, researchers have examined the brains, bodies,
+and behaviors of depressed patients in the search for clues of the underlying
+pathology of depression. This search is complicated by the fact that most
+experts on depression agree what we call major depressive disorder is not a
+single disease, but rather a collection of disorders with overlapping
+phenomenology but different etiologies and pathologies. Although this
+assumption seems likely, we have yet to find definitive subtypes or distinct
+patterns that we can confidently group into separate disorders. This area of
+research is a rapidly changing field, and improvements in technology,
+including higher-resolution imaging, more efficient genotyping, and more
+powerful computing power are getting us closer to the search for valid
+“biotypes” of depression.
+What follows here are examples of pathologic findings, most of which
+have been reasonably replicated by different investigators. Some are long
+known, others are recent. However, the growing collection of pathologic
+findings is helping us to understand what is happening when a patient says
+that they are “depressed.”
+Depression as a Disorder of Homeostasis
+Depression and the Hypothalamic–Pituitary–Adrenal Axis. We
+have known for more than 50 years that, on average, depressed patients have
+an overactive hypothalamic–pituitary–adrenal (HPA) axis. Compared with
+controls, depressed patients have increased cortisol levels over 24 hours. We
+have documented elevated HPA activity in depression via excretion of
+urinary-free cortisol (UFC), 24-hour (or shorter time segments) intravenous
+(IV) collections of plasma cortisol levels, salivary cortisol levels, and tests of
+the integrity of feedback inhibition. Evidence of increased HPA activity is
+apparent in 20 to 40 percent of depressed outpatients and 40 to 60 percent of
+depressed inpatients.
+This hypercortisolemia is due to increased corticotropin-releasing hormone
+(CRH) from the hypothalamus, along with decreased feedback inhibition. We
+can test for a disturbance of feedback inhibition using the dexamethasone test
+(DST). The DST was devised in the 1980s—patients were given
+dexamethasone—a synthetic steroid. This should create a negative feedback
+loop, and serum cortisol should decrease. However, depressed patients show
+an initial decrease but then “escape” from the suppression and return to
+abnormally high levels of cortisol. Although this is a replicable finding, it is
+not useful enough to be a diagnostic test, as it is neither sensitive (many
+patients diagnosed with depression have a normal DST) nor specific (many
+other conditions, such as Cushing syndrome, or simple environmental stress,
+can cause an abnormal DST).
+Postmortem studies have shown increased neurons in the hypothalamus,
+which is likely what is driving the increased activity. This neuronal increase
+is likely in response to chronic stress.
+Elevated HPA activity is a hallmark of the mammalian stress responses
+and one of the most unambiguous links between depression and the biology
+of chronic stress. Hypercortisolema in depression suggests one or more of the
+following central disturbances: decreased inhibitory serotonin tone, increased
+drive from norepinephrine, acetylcholine (ACh), or CRH; or decreased
+feedback inhibition from the hippocampus. Some studies in depressed
+humans indicate that a history of early trauma is associated with increased
+HPA activity accompanied by structural changes (i.e., atrophy or decreased
+volume) in the cerebral cortex.
+DEPRESSION ALSO AFFECTS OTHER ENDOCRINE AND RELATED REGULATORY
+SYSTEMS
+Thyroid Axis Activity. Approximately 5 to 10 percent of people evaluated
+for depression have previously undetected thyroid dysfunction, as reflected
+by an elevated basal thyroid-stimulating hormone (TSH) level or an increased
+TSH response to a 500-mg infusion of the hypothalamic neuropeptide
+thyroid-releasing hormone (TRH). Such abnormalities are often associated
+with elevated antithyroid antibody levels and, unless corrected with hormone
+replacement therapy, can compromise response to treatment. An even more
+significant subgroup of depressed patients (e.g., 20 to 30 percent) shows a
+blunted TSH response to TRH challenge. To date, the major therapeutic
+implication of a blunted TSH response is evidence of an increased risk of
+relapse despite preventive antidepressant therapy. Of note, unlike the
+dexamethasone-suppression test (DST), blunted TSH response to TRH does
+not usually normalize with effective treatment.
+Growth Hormone. Growth hormone (GH) is secreted from the anterior
+pituitary after stimulation by NE and dopamine. Somatostatin, a
+hypothalamic neuropeptide, and CRH inhibit this secretion. Decreased CSF
+somatostatin levels occur in depression, as do increased levels in mania.
+Prolactin. Prolactin is released from the pituitary by serotonin stimulation
+and inhibited by dopamine. Most studies have not found significant
+abnormalities of basal or circadian prolactin secretion in depression, although
+some see a blunted prolactin response to various serotonin agonists. This
+response is uncommon among premenopausal women, suggesting that
+estrogen has a moderating effect.
+Brain-Derived Neurotrophic Factor. Various growth factor proteins, of
+which brain-derived neurotrophic factor (or BDNF) is best understood, are
+responsible for the ongoing maintenance of neurons in the brain, and
+disruption of it causes a reduction in neuronal number and size. It is
+challenging to measure BDNF in the living subjects, but postmortem studies
+have suggested deficits in BDNF may correlate with psychopathology. For
+example, some studies have found that in postmortem examination of persons
+who died from suicide, the average BDNF in the prefrontal cortex (PFC) and
+hippocampus was lower than for control subjects. Indirect studies in live
+patients, looking at BDNF in plasma rather than the brain (the correlation
+between the two is not clear), found increases in serum BDNF in depressed
+patients who responded to antidepressants.
+BDNF may provide clues to the relationship between chronic stress and
+depression as the activity of the gene coding for this growth factor decreases
+with chronic stress, as does neurogenesis.
+Similarly, animal studies show that a variety of factors, including
+antidepressants, estrogen, lithium, and neurostimulation, all increase BDNF
+in the brain, suggesting a possible common link between known treatments
+for depression.
+DEPRESSION ALSO DISRUPTS CIRCADIAN RHYTHM. It has also long been known
+that depression is associated with a premature loss of deep (slow-wave) sleep
+and an increase in nocturnal arousal. Four types of disturbance reflect the
+latter: (1) an increase in nocturnal awakenings, (2) a reduction in total sleep
+time, (3) increased phasic rapid eye movement (REM) sleep, and (4)
+increased core body temperature. The combination of increased REM drive
+and decreased slow-wave sleep results in a significant reduction in the first
+period of non-REM (NREM) sleep, a phenomenon referred to as reduced
+REM latency. Blunted secretion of GH may cause this reduction in latency,
+which usually increases with sleep onset. It is very persistent, often lasting
+beyond 
+recovery 
+from 
+depression. 
+Some 
+patients 
+manifesting 
+a
+characteristically abnormal sleep profile are known to be less responsive to
+psychotherapy and to have a higher risk of relapse or recurrence and may
+benefit preferentially from pharmacotherapy.
+As with the HPA access, the association between sleep disturbances and
+depression is common, but it is neither sensitive nor specific enough for
+clinical use. About 40 percent of outpatients and 80 percent of inpatients
+show a typical pattern of reduced REM latency, increased REM density, and
+decreased sleep maintenance. False-negative findings are common in
+younger, hypersomnolent patients, who may experience an increase in slow-
+wave sleep during episodes of depression. Approximately 10 percent of
+otherwise healthy individuals have abnormal sleep profiles, as do many
+patients suffering from other medical or psychiatric disorders.
+Neurotransmitter Deficits Are Involved. Much of the research into the
+neurobiology of depression has centered on the role played by
+neurotransmitters. This approach was understandable, given that most
+somatic treatments for depression appear to act by influencing
+neurotransmission. In the 1950s, researchers found that reserpine, an
+antihypertensive that acts by inhibiting the release of monoamine
+neurotransmitters, sometimes induced depression. During the same decade,
+others discovered the earliest antidepressants. Although the discoveries were
+serendipitous, it eventually became clear that they all interfered with the
+catabolism of monoamine neurotransmitters, and researchers presumed that
+this must be their mechanism of action. It was reasonable, then, to assume
+that depression was due to abnormally low levels of these monoamines. Early
+theories of depression explained the disorder as a deficit or imbalance in
+neurotransmitters: hence depressed patients were often told that they had a
+“chemical imbalance.” Such a simplistic theory was, of course, overly
+optimistic, and subsequent neurochemical research did not find such simple
+relationships. However, neurotransmitters do play an essential role in the
+disorder, and subsequent findings have helped to clarify this role.
+NOREPINEPHRINE. Perhaps the most compelling evidence for the central role
+of the noradrenergic system in depression is the well-replicated finding that
+antidepressant response is correlated with the downregulation or decreased
+sensitivity of β-adrenergic receptors. Also, presynaptic β2-receptors appear to
+have a role, as activation of these receptors results in a decrease in the
+amount of norepinephrine released. Presynaptic β2-receptors are also located
+on serotonergic neurons and regulate the amount of serotonin released.
+SEROTONIN. Most modern antidepressants act on serotonin, rather than
+norepinephrine, and as a result, serotonin has become the biogenic amine
+neurotransmitter 
+most 
+commonly 
+associated 
+with 
+depression. 
+The
+identification of multiple serotonin receptor subtypes has also increased the
+excitement within the research community about the development of even
+more specific treatments for depression. Besides treatment studies, other data
+indicate that serotonin is involved in the pathophysiology of depression.
+Depletion of serotonin may precipitate depression, and some patients with
+suicidal impulses have low cerebrospinal fluid (CSF) concentrations of
+serotonin metabolites and low concentrations of serotonin uptake sites on
+platelets.
+DOPAMINE. Although norepinephrine and serotonin are the biogenic amines
+most often associated with the pathophysiology of depression, dopamine may
+also play a role. Dopamine activity may be reduced in depression and
+increased in mania. The discovery of new subtypes of the dopamine receptors
+and an increased understanding of the presynaptic and postsynaptic
+regulation of dopamine function have further enriched research into the
+relationship between dopamine and mood disorders. Drugs that reduce
+dopamine concentrations, including the reserpine mentioned above, as well as
+diseases that deplete dopamine such as Parkinson disease, all may cause
+depressive 
+symptoms. 
+In 
+contrast, 
+drugs 
+that 
+increase 
+dopamine
+concentrations, such as tyrosine, amphetamine, and bupropion, reduce the
+symptoms of depression.
+OTHER NEUROTRANSMITTER DISTURBANCES. Acetylcholine (ACh) is found in
+neurons that are distributed diffusely throughout the cerebral cortex.
+Cholinergic neurons have reciprocal or interactive relationships with all three
+monoamine systems. Abnormal levels of choline, which is a precursor to
+ACh, have been found at autopsy in the brains of some depressed patients.
+Cholinergic agonists can cause symptoms of lethargy, anergia, and
+psychomotor retardation. In an animal model of depression, strains of mice
+that are super- or subsensitive to cholinergic agonists have been found
+susceptible or more resistant to animal models of depression. Cholinergic
+agonists can induce changes in HPA activity and sleep that mimic those
+associated with severe depression. Some patients with mood disorders in
+remission, as well as their never-ill first-degree relatives, have a trait-like
+increase in sensitivity to cholinergic agonists.
+γ-Aminobutyric acid (GABA) has an inhibitory effect on ascending
+monoamine pathways, particularly the mesocortical and mesolimbic systems.
+Reductions of GABA occur in plasma, CSF, and brain GABA levels in
+depression. Animal studies have also found that chronic stress can reduce and
+eventually can deplete GABA levels. By contrast, antidepressants upregulate
+GABA receptors, and some GABAergic medications have weak
+antidepressant effects.
+The amino acids glutamate and glycine are the primary excitatory and
+inhibitory neurotransmitters in the CNS. Glutamate and glycine bind to sites
+associated with the NMDA receptor and an excess of glutamatergic
+stimulation can cause neurotoxic effects. Importantly, a high concentration of
+NMDA receptors exists in the hippocampus. Glutamate, thus, may work in
+conjunction with hypercortisolemia to mediate the deleterious neurocognitive
+effects of severe recurrent depression. Emerging evidence suggests that drugs
+that antagonize NMDA receptors have antidepressant effects.
+SECOND MESSENGERS AND INTRACELLULAR CASCADES. The binding of a
+neurotransmitter and a postsynaptic receptor triggers a cascade of membrane-
+bound and intracellular processes mediated by second messenger systems.
+Second messengers regulate the function of neuronal membrane ion channels.
+Increasing evidence also indicates that mood-stabilizing drugs act on these
+second messengers.
+Immunologic Disturbance. Depressive disorders are associated with
+several immunologic abnormalities, including decreased lymphocyte
+proliferation in response to mitogens and other forms of impaired cellular
+immunity. 
+These 
+lymphocytes 
+produce 
+neuromodulators, 
+such 
+as
+corticotropin-releasing factor (CRF), and cytokines, peptides known as
+interleukins. There appears to be an association with clinical severity,
+hypercortisolism, and immune dysfunction, and the cytokine interleukin-1
+may induce gene activity for glucocorticoid synthesis.
+Findings from Brain Imaging
+STRUCTURAL IMAGING. The most consistent abnormality observed in
+depressive disorders is the increased frequency of abnormal hyperintensities
+in subcortical regions, such as periventricular regions, the basal ganglia, and
+the thalamus. More common among elderly adults, these hyperintensities
+appear to reflect the deleterious neurodegenerative effects of recurrent
+affective episodes. Ventricular enlargement, cortical atrophy, and sulcal
+widening also have been reported in some studies. Some depressed patients
+also may have reduced hippocampal or caudate nucleus volumes, or both,
+suggesting more focal defects in relevant neurobehavioral systems. Diffuse
+and focal areas of atrophy are associated with increased illness severity,
+bipolarity, and increased cortisol levels.
+Also, specific structures appear reduced in volume in patients with
+depression, for example, the hippocampus. This reduction may be due to
+neuronal loss due to the neurotoxic effects of the increased cortisol found in
+depressed patients. Although many areas of the brain are susceptible to this
+toxic effect, the hippocampus is particularly vulnerable, as it is rich in
+glutaminergic neurons. Other areas with reported brain loss include the PFC,
+cingulate gyrus, and cerebellum.
+FUNCTIONAL IMAGINING. The most widely replicated positron emission
+tomography (PET) finding in depression is decreased anterior brain
+metabolism, which is generally more pronounced on the left side. From a
+different vantage point, depression may cause a relative increase in
+nondominant hemispheric activity. Furthermore, a reversal of hypofrontality
+occurs after shifts from depression into hypomania, such that higher left
+hemisphere reductions occur in depression compared with more significant
+right hemisphere reductions in mania. Other studies have observed more
+specific reductions of reduced cerebral blood flow or metabolism, or both, in
+the dopaminergically innervated tracts of the mesocortical and mesolimbic
+systems in depression. Evidence suggests that antidepressants at least
+partially normalize these changes.
+FIGURE 7-2
+Key brain regions involved in affect and mood disorders. A: Orbital prefrontal
+cortex and the ventromedial prefrontal cortex. B: Dorsolateral prefrontal cortex. C:
+Hippocampus an˙˙d amygdala. D: Anterior cingulate cortex. (From Thase ME.
+Mood disorders neurobiology. In: Sadock BJ, Sadock VA, Ruiz P. (eds.). Kaplan
+& Sadock’s Comprehensive Textbook of Psychiatry. 10th ed. Philadelphia, PA:
+Lippincott Williams & Wilkins, 2017.)
+In addition to a global reduction of anterior cerebral metabolism, increased
+glucose metabolism occurs in several limbic regions, particularly among
+patients with relatively severe recurrent depression and a family history of
+mood disorder. During episodes of depression, increased glucose metabolism
+correlates with intrusive ruminations.
+One meta-analysis found three consistent differences when comparing
+fMRI studies of depressed patients with healthy controls. They found
+activation of the pulvinar nucleus of the thalamus, more significant response
+to negative stimuli in the amygdala, insula and anterior cingulate, and lesser
+response in the dorsal striatum and dorsal lateral PFC.
+Figure 7-2 illustrates some of the brain regions thought to be most critical
+to mood regulation.
+Our Understanding of the Genetics of Depressive Disorders
+Numerous family, adoption, and twin studies have long documented the
+heritability of mood disorders. Recently, however, the primary focus of
+genetic studies has been to identify specific susceptibility genes using
+molecular genetic methods.
+Studies of Inheritance Patterns. Depression aggregates within families
+and meta-analytic studies suggest that first-degree relatives of persons with
+major depressive disorder have an increased odds ratio of 2.84 for developing
+the disease. Only limited adoption studies have been done, of varying quality
+and with mixed results, and most of what we know about the genetic
+contribution to the disorder comes from twin studies, which estimate the
+heritability to be 37 percent. It appears that this heritability is higher in
+women. The twin studies also concluded that shared environmental factors
+did not play a significant role in the familial aggregation of the disorder.
+Genetic Studies. Genome-wide association studies have not found
+significant associations. Although there are various explanations for the lack
+of replicated findings, it likely relates to the fact that GWAS is powered to
+detect common variants, and that the genes relevant to depression risk are
+rare.
+Candidate gene studies, which instead focus on specific genes of interest,
+have resulted in many reported findings. However, few of these are
+replicated. The most considerable focus has been on genes that might have a
+role in the proposed mechanism of depression, such as the gene involved in
+the 
+encoding 
+of 
+serotonin 
+(HTR1A), 
+the 
+serotonin 
+transporter
+(5HTTP/SLC6A4), or the dopamine receptor (DRD4), and transporter
+(SLC6A3). Although some have replicated the most significant associations
+for these genes (most often for the 5HTTP/SLC6A4 gene), the effect size are
+small, and the sample sizes are smaller than those using GWAS, leading
+some experts to question the role of statistical error in the positive and
+negative findings. If some or all of the candidate gene studies are significant,
+the most likely interpretation of available findings is that much, or most of
+the genetic heritability for depression is the result of many genes each
+contributing a small effect, which only becomes meaningful when combined
+across thousands of genes. It is also possible, however, that there is some
+rare, still undetected genetic variant.
+THE PSYCHOLOGY OF DEPRESSION
+A great deal of psychological and sociologic research has also shed light on
+the pathology of depression. Perhaps the most meaningful contributions come
+from research on the role of stress and depression.
+Stress and Depression
+Some clinicians believe that life events play the primary or principal role in
+depression; others suggest that life events have only a limited role in the
+onset and timing of depression. The most compelling data indicate that the
+life event most often associated with the development of depression is losing
+a parent before age 11 years. The environmental stressor most often
+associated with the onset of an episode of depression is the loss of a spouse.
+Another risk factor is unemployment; persons out of work are three times
+more likely to report symptoms of an episode of major depression than those
+who are employed.
+Personality
+No single personality trait or type uniquely predisposes a person to
+depression; all humans, of whatever personality pattern, can and do become
+depressed under appropriate circumstances. Persons with certain personality
+disorders—OCPD, histrionic, and borderline—may be at higher risk for
+depression than persons with an antisocial or paranoid personality disorder.
+The latter can use projection and other externalizing defense mechanisms to
+protect themselves from their inner rage.
+ETIOLOGY
+As we can see, there is a great deal of data accumulating on various
+pathologies and dysregulations in the brain and body that are associated with
+depression. Many experts in the field have attempted to combine various
+lines of research into a coherent explanation of what causes us to suffer from
+a depressive disorder. Although there is no single unifying theory, several
+theories have emerged over the last century that attempt to account for the
+various clinical, psychological, and biologic findings in depression.
+Biologic Theories
+The Monoamine Hypothesis. As already noted, the fact that all known
+antidepressants acted on the monoamines (particularly catecholamines as
+noted above) coupled with the fact that drugs and diseases that deplete
+monoamines (e.g., reserpine and Parkinson disease) can cause depressive
+symptoms led to the supposition that depression is the result of some
+deficiency or dysregulation in brain monoamines.
+Although the theory became, and to a point remains, prevalent, several
+lines of evidence suggested it was an inadequate explanation for the etiology
+of depression. Most notably, antidepressants take weeks to work, even though
+their presumed action of increasing monoamine levels happens quickly, often
+within hours after administration. Also, there is no convincing evidence of
+any neurochemical imbalance, for example, in studies of the CSF of
+depressed patients or postmortem brain tissue.
+As noted in our discussion of the pathology of depression, there is good
+evidence to suggest that neurotransmitters do play an important role, and that
+receptor or second messenger relationships may explain some of the
+inconsistent findings. Some have attempted to modify the monoamine
+hypothesis, suggesting that it remains true, but is more complicated than
+initially thought. However, a consistent and coherent explanation of the role
+of neurotransmitters remains elusive, and we still do not know whether their
+relationship to depression is one of causation or a later effect of the disease.
+Brain Dysfunction. Theories of brain dysregulation attempt to incorporate
+both findings of dysregulation with the increased and decreased responses to
+various negative stimuli observed in studies. Areas of interest include:
+The amygdala. Part of the limbic system, the amygdala appears to be a
+crucial way station for processing novel stimuli of emotional significance and
+coordinating or organizing cortical responses.
+The hippocampus. Adjacent to the amygdala, the hippocampus is most
+associated with learning and memory. Emotional or contextual learning
+appears to involve a direct connection between the hippocampus and the
+amygdala. Also, the hippocampus regulates the HPA axis by inhibiting
+activity.
+The Prefrontal Cortex (PFC). We think of the PFC as the structure that
+holds representations of goals and appropriate responses to obtain these
+goals. There are areas of specialization. For example, whereas left-sided
+activation of regions of the PFC is more involved in goal-directed or
+appetitive behaviors, regions of the right PFC are implicated in avoidance
+behaviors and inhibition of appetitive pursuits. Subregions in the PFC appear
+to localize representations of behaviors related to reward and punishment.
+The anterior cingulate cortex (ACC). The ACC is involved in attention,
+motivation, and environmental exploration and appears to help integrate
+attentional and emotional inputs. The more rostral and ventral region has an
+affective subdivision that connects extensively with limbic regions of the
+brain. Activation of the ACC may facilitate control of emotional arousal,
+particularly when thwarting goal when attainment encountering novel
+problems.
+There are various theories that attempt to integrate various pathologic
+findings into an understanding of the etiology of depression. Although there
+are many approaches and variations, many theories broadly fall into one of
+two categories: neurogenesis hypotheses and neuroplastic hypotheses.
+Neurogenesis Hypotheses. Neurogenesis hypotheses suppose that the
+brain abnormalities leading to depression are the result of abnormalities in
+development such that there is a deficit in the number of newborn neurons in
+the brain.
+There are several explanations for the cause of this deficit. Some versions
+attempt to link the role of stress, particularly chronic stress, in causing
+depression. Stress can cause increased activity in the HPA axis, which results
+in increased glucocorticoid production. Glucocorticoids are known to
+decrease neurogenesis. As neurogenesis continues in the adult hippocampus,
+this may be an area preferentially affected by stress. The hippocampus is then
+unable to adequately regulate the HPA axis, leading to continued elevated
+glucocorticoid levels in the brain and further inhibition of neurogenesis.
+Neuroplasticity Hypotheses. Neuroplasticity hypotheses propose that the
+atrophy of already developed neurons causes depression. In this version,
+rather than a deficit of nerve growth, atrophy occurs in already mature
+neurons. As noted, chronic stress can increase glucocorticoid levels, which
+can cause atrophy. It can also decrease the expression of BDNF, which is
+essential for the survival, growth, and differentiation of neurons in the brain;
+the result is atrophy. As this preferentially happens in the hippocampus, this
+can account for the finding of decreased hippocampal volume in depressed
+patients.
+Psychosocial Theories
+Life Events and Environmental Stress. A long-standing clinical
+observation is that stressful life events more often precede first, rather than
+subsequent, episodes of mood disorders. One theory proposed to explain this
+observation is that the stress accompanying the first episode results in long-
+lasting changes in the brain’s biology. As a result, a person has a high risk of
+undergoing subsequent episodes of a mood disorder, even without an external
+stressor.
+Ms. C, a 23-year-old woman, became acutely depressed when she was
+accepted to a prestigious graduate school. Ms. C had been working
+diligently toward this acceptance for the past 4 years. She reported being
+“briefly happy, for about 20 minutes” when she learned the good news
+but rapidly slipped into a hopeless state in which she recurrently
+pondered the pointlessness of her aspirations, cried constantly, and had to
+physically stop herself from taking a lethal overdose of her roommate’s
+insulin. In treatment, she focused on her older brother, who had regularly
+insulted her throughout the course of her life, and how “he’s not doing
+well.” She found herself very worried about him. She mentioned that she
+was not used to being the “successful” one of the two of them. In
+connection with her depression, it emerged that Ms. C’s brother had had a
+severe, life-threatening, and disfiguring pediatric illness that had required
+much family time and attention throughout their childhood. Ms. C had
+become “used to” his insulting manner toward her. In fact, it seemed that
+she required her brother’s abuse of her in order not to feel overwhelmed
+by survivor guilt about being the “healthy, normal” child. “He might
+insult me, but I look up to him. I adore him. Any attention he pays to me
+is like a drug,” she said. Ms. C’s acceptance to graduate school had
+challenged her defensive and essential compensatory image of herself as
+being less successful, or damaged, in comparison with her brother,
+thereby overwhelming her with guilt. Her depression remitted in
+psychodynamic psychotherapy as she better understood her identification
+with and fantasy submission to her brother. (Courtesy of J. C. Markowitz,
+M.D. and B. L. Milrod, M.D.)
+Psychodynamic Theories of Depression. The psychodynamic
+understanding of depression defined by Sigmund Freud and expanded by
+Karl Abraham is known as the classic view of depression. That theory
+involves four key points: (1) disturbances in the infant–mother relationship
+during the oral phase (the first 10 to 18 months of life) predispose to
+subsequent vulnerability to depression; (2) depression can be linked to real or
+imagined object loss; (3) introjection of the departed objects is a defense
+mechanism invoked to deal with the distress connected with the object’s loss;
+and (4) because the lost object is regarded with a mixture of love and hate,
+feelings of anger are directed inward at the self.
+Ms. E, a 21-year-old college student, presented with major depression
+and panic disorder since early adolescence. She reported hating herself,
+crying constantly, and feeling profoundly hopeless in part because of the
+chronicity of her illness. Even at the time of presentation, she noted her
+sensitivity to her mother’s moods. “My mother’s just always depressed,
+and it makes me so miserable. I just don’t know what to do,” she said. “I
+always want something from her, I don’t even know what, but I never get
+it. She always says the wrong thing, talks about how disturbed I am, stuff
+like that, makes me feel bad about myself.” In one session, Ms. E
+poignantly described her childhood: “I spent a lot of time with my
+mother, but she was always too tired, she never wanted to do anything or
+play with me. I remember building a house with blankets over the coffee
+table and peeking out, spying on her. She was always depressed and
+negative, like a negative sink in the room, making it empty and sad. I
+could never get her to do anything.” This patient experienced extreme
+guilt in her psychotherapy when she began to talk about her mother’s
+depression. “I feel so bad,” she sobbed. “It’s like I’m saying bad things
+about her. And I love her so much, and I know she loves me. I feel it’s so
+disloyal 
+of 
+me.” 
+Her 
+depression 
+remitted 
+in 
+psychodynamic
+psychotherapy as she became more aware of and better able to tolerate
+her feelings of rage and disappointment with her mother. (Courtesy of J.
+C. Markowitz M.D. and B. L. Milrod, M.D.)
+Cognitive Theory. According to cognitive theory, depression results from
+specific cognitive distortions present in persons susceptible to depression.
+These distortions, referred to as depressogenic schemata, are cognitive
+templates that perceive both internal and external data in ways that are altered
+by early experiences. Aaron Beck postulated a cognitive triad of depression
+that consists of (1) views about the self—a negative self-precept, (2) about
+the environment—a tendency to experience the world as hostile and
+demanding, and (3) about the future—the expectation of suffering and
+failure. Therapy consists of modifying these distortions. We summarize the
+elements of cognitive theory in Table 7-14.
+Learned Helplessness. The learned helplessness theory of depression
+connects depressive phenomena to the experience of uncontrollable events.
+For example, when dogs in a laboratory are exposed to electrical shocks from
+which they cannot escape, they showed behaviors that differentiate them
+from dogs not exposed to such uncontrollable events. The dogs exposed to
+the shocks would not cross a barrier to stop the flow of electric shock when
+put in a new learning situation. They remained passive and did not move.
+According to the learned helplessness theory, the shocked dogs learned that
+outcomes were independent of responses, so they had both cognitive
+motivational deficits (i.e., they would not attempt to escape the shock) and
+emotional deficits (indicating decreased reactivity to the shock). In the
+reformulated view of learned helplessness as applied to human depression,
+internal causal explanations may produce a loss of self-esteem after adverse
+external events. Behaviorists who subscribe to this theory often stress that
+improvement of depression is contingent on the patient’s learning a sense of
+control and mastery of the environment.
+Table 7-14
+Elements of Cognitive Theory
+Element
+Definition
+Cognitive triad
+Beliefs about oneself, the world, and the future
+Schemas
+Ways of organizing and interpreting experiences
+Cognitive
+distortions
+Persistent ways of thinking that are inaccurate
+and usually negatively biased
+Arbitrary inference Drawing a specific conclusion without sufficient
+evidence
+Specific
+abstraction
+Focus on a single detail while ignoring other,
+more important aspects of an experience
+Overgeneralization Forming conclusions based on too little and too
+narrow experience
+Magnification and
+minimization
+Over- or undervaluing the significance of a
+particular event
+Personalization
+Tendency to self-reference external events
+without basis
+Absolutist,
+dichotomous
+thinking
+Tendency to place experience into all-or-none
+categories
+Courtesy of Robert M.A. Hirschfeld, M.D. and M. Tracie Shea, Ph.D.
+Evolutionary Theory. Some theorists take an evolutionary perspective
+toward depression. From this perspective, depression is an adaptive response
+to perceived threats in the environment. From this perspective, depression is
+an adaptive response to perceived threats in the environment, and the
+tendency for depressed persons to withdraw from the environment in the face
+of possible threats could be protective. Beyond threats of bodily harm, social
+threats (e.g.,of exclusion or defeat) could also be considered threats in that
+such social threats can reduce one’s perceived fitness, and hence, the
+desirability of a mate. The depressive response in which one decreases
+activity, withdraws from social situations, and approaches novel situations
+with a negative bias (“that person will think I am a loser”) could be
+interpreted as adaptive ways to reduce risk and avoid further social failures.
+There are many varieties of evolutionary theory, some of which stress the
+adaptive benefit of depression, others which see it as an outmoded response
+which may have had a benefit in ancient societies, but is counterproductive in
+our modern world. Other versions see the basic ability to vary mood as
+adaptive but suggest depression is a dysregulation of that normal function.
+These theories are difficult to test, as it is challenging to test the fitness of a
+particular trait that is very common in a population.
+Integrative Approaches
+It remains difficult, if not impossible, to incorporate all the various
+observations and research findings on depression into one grand unified
+theory. However, the various attempts by investigators and theoreticians to
+incorporate these findings have certain common features.
+It seems clear that there exists some genetic vulnerability that puts persons
+at risk for depression. Such persons who then encounter stress, either external
+or internal, have epigenetic changes that differ from normal responses to
+stress; for example, they may be less able to transcribe certain growth factors
+in response to stress. This deficit results in subtle neuronal loss, and this loss
+is particularly apparent in some vulnerable areas (e.g., the hippocampus). The
+result is a disruption of the usual regulatory systems in the brain, causing
+changes in the expressions of transmitters, hormones, and other regulatory
+systems. This causes the physical changes that we associate with depression,
+and our behavioral response to this is the subjective feeling of depression.
+References
+Akiskal. Mood disorders. In: Sadock BJ, Sadock VA, Ruiz P, eds. Kaplan &
+Sadock’s Comprehensive Textbook of Psychiatry. 10th ed. Philadelphia,
+PA: Wolters Kluwer; 2017.
+Albert PR. Why is depression more prevalent in women? J Psychiatry
+Neurosci. 2015;40(4):219–221.
+Badcock PB, Davey CG, Whittle S, Allen NB, Friston KJ. The depressed
+brain: an evolutionary systems theory. Trends Cogn Sci. 2017;21(3):182–
+194.

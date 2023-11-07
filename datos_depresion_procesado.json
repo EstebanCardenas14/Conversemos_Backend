@@ -1,0 +1,217 @@
+{
+    "textos": [
+      {
+        "texto": "   es un trastorno mental que afecta a millones de personas en todo el mundo. Se caracteriza por una profunda sensación de tristeza y desesperación que perdura en el tiempo.",
+        "categoria": "Definición"
+      },
+      {
+        "texto": "Los síntomas de la depresión incluyen la tristeza persistente, la pérdida de interés en actividades, la fatiga, alteraciones del sueño y cambios en el apetito.",
+        "categoria": "Síntomas"
+      },
+      {
+        "texto": "Las causas de la depresión son multifactoriales e involucran factores genéticos, desequilibrios químicos cerebrales y experiencias traumáticas.",
+        "categoria": "Causas"
+      },
+      {
+        "texto": "Las causas de la depresión son multifactoriales e involucran factores genéticos, desequilibrios químicos cerebrales y experiencias traumáticas.",
+        "categoria": "Causas"
+      },
+      {
+        "texto": "La depresión no tratada puede tener graves consecuencias, como el deterioro de la calidad de vida, dificultades en las relaciones y el riesgo de suicidio.",
+        "categoria": "Consecuencias"
+      },
+      {
+        "texto": "Entre los factores de riesgo se encuentran los antecedentes familiares, eventos estresantes y abuso de sustancias.",
+        "categoria": "Factores de riesgo"
+      },
+      {
+        "texto": "Existen varios tipos de depresión, como la depresión mayor, la distimia y la depresión bipolar, cada uno con características distintivas.",
+        "categoria": "Tipos de depresión"
+      },
+      {
+        "texto": "La depresión a menudo se asocia con otros trastornos mentales, como la ansiedad y los trastornos de la alimentación.",
+        "categoria": "Trastornos relacionados"
+      },
+      {
+        "texto": "El diagnóstico de la depresión se basa en la evaluación de síntomas y se apoya en manuales de diagnóstico como el DSM-5 y el ICD-10.",
+        "categoria": "Diagnóstico"
+      },
+      {
+        "texto": "La evaluación de la depresión a menudo utiliza escalas como el Inventario de Depresión de Beck para medir la gravedad de los síntomas.",
+        "categoria": "Evaluación y escalas"
+      },
+      {
+        "texto": "El tratamiento de la depresión incluye terapias psicológicas, medicamentos, cambios en el estilo de vida y apoyo social.",
+        "categoria": "Tratamiento"
+      },
+      {
+        "texto": "Los antidepresivos son medicamentos que equilibran los químicos cerebrales y pueden aliviar los síntomas de la depresión.",
+        "categoria": "Antidepresivos"
+      },
+      {
+        "texto": "Los antidepresivos son medicamentos que se dirigen a los desequilibrios qu ayudan  a mejorar el estado de ánimo, el sueño, el apetito y la concentración. También pueden reducir los sentimientos de ansiedad, de culpa y de desesperanza.",
+        "categoria": "Antidepresivos"
+      },
+      {
+        "texto": "La terapia cognitivo-conductual es una terapia efectiva para abordar patrones de pensamiento negativos en la depresión.",
+        "categoria": "Terapias"
+      },
+      {
+        "texto": "La terapia interpersonal es una terapia efectiva para abordar problemas de relación y eventos estresantes en la depresión.",
+        "categoria": "Terapias"
+      },
+      {
+        "texto": "Diversas intervenciones terapéuticas, como la terapia electroconvulsiva, se utilizan en casos graves de depresión.",
+        "categoria": "Intervenciones"
+      },
+      {
+        "texto": "La depresión se asocia con otros trastornos mentales y físicos, como la ansiedad y los problemas de sueño.",
+        "categoria": "Depresión y ansiedad"
+      },
+      {
+        "texto": "El sueño es un aspecto fundamental en la depresión, ya que los trastornos del sueño son síntomas comunes.",
+        "categoria": "Depresión y sueño"
+      },
+      {
+        "texto": "La alimentación puede desempeñar un papel en la depresión, y una dieta equilibrada puede mejorar el bienestar mental.",
+        "categoria": "Depresión y alimentación"
+      },
+      {
+        "texto": "La actividad física y el ejercicio regular se han asociado con mejoras en el estado de ánimo y la salud mental.",
+        "categoria": "Depresión y ejercicio"
+      },
+      {
+        "texto": "La depresión puede afectar la calidad de vida en diversos aspectos, desde el trabajo hasta las relaciones personales.",
+        "categoria": "Depresión y calidad de vida"
+      },
+      {
+        "texto": "El DSM-5 es un manual de diagnóstico ampliamente utilizado para los trastornos del ánimo, incluyendo la depresión mayor.",
+        "categoria": "DSM-5 (Trastornos del ánimo)"
+      },
+      {
+        "texto": "El ICD-10 es una clasificación global de trastornos mentales y del comportamiento, que también incluye categorías para los trastornos depresivos.",
+        "categoria": "ICD-10 (Trastornos mentales y del comportamiento)"
+      },
+      {
+        "texto": "La depresión mayor, también conocida como trastorno depresivo mayor, se caracteriza por episodios de profunda tristeza y desinterés.",
+        "categoria": "Depresión mayor (trastorno depresivo mayor)"
+      },
+      {
+        "texto": "El trastorno distímico, o distimia, es una forma crónica de depresión con síntomas menos graves pero prolongados.",
+        "categoria": "Trastorno distímico (distimia)"
+      },
+      {
+        "texto": "El trastorno bipolar puede involucrar episodios de depresión y manía, alternando entre estados de ánimo elevados y bajos.",
+        "categoria": "Trastorno bipolar y depresión"
+      },
+      {
+        "texto": "El trastorno depresivo recurrente se caracteriza por episodios repetidos de depresión a lo largo de la vida de una persona.",
+        "categoria": "Trastorno depresivo recurrente"
+      },
+      {
+        "texto": "La depresión atípica presenta síntomas diferentes a la depresión clásica, como aumento del apetito y sensibilidad al rechazo.",
+        "categoria": "Depresión atípica"
+      },
+      {
+        "texto": "La depresión postparto afecta a algunas madres después de dar a luz y se asocia con síntomas de depresión.",
+        "categoria": "Depresión postparto"
+      },
+      {
+        "texto": "El síndrome premenstrual disfórico es un trastorno del estado de ánimo relacionado con el ciclo menstrual y puede incluir síntomas depresivos.",
+        "categoria": "Síndrome premenstrual disfórico"
+      },
+      {
+        "texto": "La depresión estacional se presenta en ciertas estaciones del año, principalmente durante el invierno, y se relaciona con la falta de luz solar.",
+        "categoria": "Depresión estacional"
+      },
+      {
+        "texto": "La depresión resistente al tratamiento es una forma de depresión que no responde adecuadamente a los tratamientos convencionales.",
+        "categoria": "Depresión resistente al tratamiento"
+      },
+      {
+        "texto": "La depresión en enfermedades crónicas es común y puede afectar a personas con afecciones de salud crónicas, como diabetes o enfermedades cardíacas.",
+        "categoria": "Depresión en enfermedades crónicas"
+      },
+      {
+        "texto": "Existen escalas de evaluación de la depresión, como el Inventario de Depresión de Beck, que se utilizan para medir la gravedad de los síntomas.",
+        "categoria": "Escalas de evaluación de la depresión"
+      },
+      {
+        "texto": "La depresión y la ansiedad a menudo coexisten, y se pueden abordar mediante terapias específicas.",
+        "categoria": "Depresión y ansiedad"
+      },
+      {
+        "texto": "Los problemas de sueño son síntomas comunes de la depresión y pueden tener un impacto significativo en la calidad de vida.",
+        "categoria": "Depresión y sueño"
+      },
+      {
+        "texto": "La alimentación juega un papel en la depresión, y una dieta equilibrada puede ser beneficiosa para la salud mental.",
+        "categoria": "Depresión y alimentación"
+      },
+      {
+        "texto": "La actividad física y el ejercicio regular pueden ayudar a mejorar el estado de ánimo y la salud mental en personas con depresión.",
+        "categoria": "Depresión y ejercicio"
+      },
+      {
+        "texto": "La depresión puede tener un impacto significativo en la salud mental general y afectar diversos aspectos de la vida.",
+        "categoria": "Depresión y salud mental global"
+      },
+      {
+        "texto": "La calidad de vida se ve afectada por la depresión, influyendo en áreas como el trabajo, las relaciones y la satisfacción general.",
+        "categoria": "Depresión y calidad de vida"
+      },
+      {
+        "texto": "La depresión en el lugar de trabajo es un problema importante que puede afectar el rendimiento laboral y la salud de los empleados.",
+        "categoria": "Depresión en el lugar de trabajo"
+      },
+      {
+        "texto": "Los estudiantes universitarios a menudo enfrentan desafíos relacionados con la depresión debido al estrés académico y las transiciones en la vida.",
+        "categoria": "Depresión en estudiantes"
+      },
+      {
+        "texto": "La depresión es común en adultos mayores y puede estar relacionada con la soledad y las pérdidas en la vejez.",
+        "categoria": "Depresión y envejecimiento"
+      },
+      {
+        "texto": "Los veteranos de guerra pueden experimentar depresión debido a traumas relacionados con su servicio militar.",
+        "categoria": "Depresión en veteranos de guerra"
+      },
+      {
+        "texto": "Los pacientes hospitalizados pueden desarrollar depresión debido a la enfermedad y el aislamiento del entorno hospitalario.",
+        "categoria": "Depresión en pacientes hospitalizados"
+      },
+      {
+        "texto": "La depresión en personas con VIH/SIDA es un tema complejo. Aquellos que viven con esta condición a menudo enfrentan una carga emocional adicional. La incertidumbre sobre la enfermedad y su impacto en la vida diaria puede contribuir a la depresión. Es esencial proporcionar apoyo y servicios de salud mental a estas personas.",
+        "categoria": "Depresión en personas con VIH/SIDA"
+    },
+    {
+        "texto": "Los trastornos de la personalidad, como el trastorno límite de la personalidad o el trastorno antisocial de la personalidad, pueden coexistir con la depresión. Esta comorbilidad presenta desafíos específicos en el diagnóstico y tratamiento. Enfoques terapéuticos adaptados, como la terapia dialectical conductual, pueden ser efectivos en estos casos.",
+        "categoria": "Depresión y trastornos de la personalidad"
+    },
+    {
+        "texto": "La depresión en personas con discapacidades físicas o cognitivas es una realidad. Adaptarse a las limitaciones físicas o cognitivas puede generar sentimientos de tristeza y desesperación. Es fundamental brindar apoyo a estas personas y asegurar su acceso a servicios de salud mental.",
+        "categoria": "Depresión en personas con discapacidades"
+    },
+    {
+        "texto": "La depresión afecta a poblaciones minoritarias de manera desproporcionada. Factores sociales y culturales pueden influir en la prevalencia y el manejo de la depresión en estas comunidades. Se requieren enfoques culturalmente sensibles para abordar este problema.",
+        "categoria": "Depresión en poblaciones minoritarias"
+    },
+    {
+        "texto": "La depresión se manifiesta de manera diferente en diversos contextos culturales. Las creencias y los valores culturales pueden influir en la percepción y expresión de la depresión. La comprensión de estos factores culturales es esencial para brindar un tratamiento efectivo.",
+        "categoria": "Depresión en contextos culturales"
+    },
+    {
+        "texto": "La depresión tiene un impacto significativo en la economía. Los costos asociados con la atención médica, la productividad laboral reducida y otros factores económicos son importantes. La prevención y el tratamiento de la depresión pueden ayudar a mitigar estos efectos económicos.",
+        "categoria": "Efectos económicos de la depresión"
+    },
+    {
+        "texto": "La prevención de la depresión es fundamental. Identificar y abordar los factores de riesgo, promover la salud mental y proporcionar educación sobre la depresión son estrategias clave. La prevención puede ayudar a reducir la incidencia de la depresión.",
+        "categoria": "Prevención de la depresión"
+    },
+    {
+        "texto": "La investigación continua es esencial para avanzar en la comprensión y el tratamiento de la depresión. Los avances en la psicofarmacología, la psicoterapia y las intervenciones basadas en la evidencia tienen el potencial de mejorar la vida de las personas que luchan contra la depresión.",
+        "categoria": "Investigación y avances en el tratamiento"
+    }
+    ]
+}
+  
