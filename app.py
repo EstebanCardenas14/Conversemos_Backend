@@ -8,6 +8,13 @@ load_dotenv()
 
 app = Flask(__name__)
 app.register_blueprint(user_routes)
+#cors 
+@app.after_request
+def after_request(response):
+    response.headers.add('Access-Control-Allow-Origin', '*')
+    response.headers.add('Access-Control-Allow-Headers', 'Content-Type,Authorization')
+    response.headers.add('Access-Control-Allow-Methods', '*')
+    return response
 
 @app.route('/')
 
