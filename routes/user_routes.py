@@ -2,6 +2,7 @@ from functools import wraps
 import re
 from flask import Blueprint, request, jsonify
 from controller.user_controller import UserController
+from flask_cors import cross_origin
 
 user_routes = Blueprint('user_routes', __name__)
 user_controller = UserController()
@@ -26,6 +27,7 @@ def authenticate_token(f):
 
 # Rutas de la API
 # Ruta para iniciar sesión y obtener el token
+@cross_origin
 @user_routes.route('/login', methods=['POST'])
 def login():
     data = request.get_json()
@@ -39,6 +41,7 @@ def login():
         return jsonify({'message': 'Faltan credenciales de inicio de sesión'}), 400
 
 # Ruta para crear un usuario y obtener el token
+@cross_origin
 @user_routes.route('/user', methods=['POST'])
 def create_user():
     data = request.get_json()
@@ -46,6 +49,7 @@ def create_user():
     return jsonify({'message': 'User created successfully', 'Token' : response }), 200
 
 # Rutas para obtener el usuario logueado
+@cross_origin
 @user_routes.route('/user', methods=['GET'])
 @authenticate_token
 def get_user(user_id):
@@ -53,6 +57,7 @@ def get_user(user_id):
     return jsonify({'usuario': user}), 200#user_controller.get_user(user_id)
 
 # Rutas para editar el usuario logueado
+@cross_origin
 @user_routes.route('/user', methods=['PUT'])
 @authenticate_token
 def update_user(user_id):

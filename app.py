@@ -1,7 +1,7 @@
 from flask import Flask
 from routes.user_routes import user_routes
 from dotenv import load_dotenv
-from flask_cors import CORS
+from flask_cors import CORS, cross_origin
 
 
 # Carga las variables de entorno desde el archivo .env
@@ -12,7 +12,7 @@ CORS(app)
 app.register_blueprint(user_routes)
 
 
-
+@cross_origin
 @app.route('/')
 
 def index() :
